@@ -2,7 +2,9 @@ from __future__ import annotations
 from typing import List, Optional, Dict, Union, Tuple
 from json import load, dump
 import os.path
+import csv
 import spacy
+from spacy.tokens import Doc
 
 DIR = os.path.dirname(__file__)
 
@@ -34,30 +36,21 @@ class _Utility:
         with open(file_path, "w") as file:
             dump(data, file)
 
+    @staticmethod
+    def save_csv(header: List,
+                 data: List,
+                 file_path: str) -> None:
+        """ Save data as CSV file.
 
-# named entity recognition with spacy:
-def ner():
-    nlp = spacy.load("de_core_news_lg")  # python -m spacy download de_core_news_lg
+        :param header: the header
+        :param data: the data to be saved
+        :param file_path: complete path to file including filename and extension
+        """
 
-    with open(DIR + "/txt/full_transcription.txt", "r") as file:
-        raw_text = file.read().replace('\n', '')  # use both options
-
-    doc = nlp(raw_text)
-    for ent in doc.ents:
-        print(ent.text, ent.start_char, ent.end_char, ent.label_)
-    print(len(doc.ents))
-
-    for attribute in ["PER", "LOC", "ORG", "MISC"]:
-        unique = [(x.text, x.label_) for x in doc.ents if x.label_ == attribute]
-        norm = set((x.text, x.label_) for x in doc.ents if x.label_ == attribute)
-        print("++++++++++++++++++++++++++++++++++++++++++++++++++++")
-        print(f"{attribute} unique {len(unique)}")
-        print(f"{attribute} norm {len(norm)}")
-        print("++++++++++++++++++++++++++++++++++++++++++++++++++++")
-        for x in norm:
-            print(x)
-
-# todo: map texts to document; map characters to document so that entities can be attributed to document
+        with open(file_path, 'w', encoding='UTF8', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(header)
+            writer.writerows(data)
 
 
 class Document:
@@ -70,11 +63,28 @@ class Document:
 
     def __init__(self,
                  title: str = None,
-                 transcript: [str] = None,
+                 transcript: List[str] = None,
+                 entities: Doc.ents = None,
                  char_range: (int, int) = None) -> None:
         self.title = title
         self.transcript = transcript
+        self.entities = entities
         self.char_range = char_range
+
+    def transcript2entities(self,
+                            nlp: spacy.language = spacy.load("de_core_news_lg")) -> None:
+        """ Add Spacy entities given the transcript.
+
+        :param nlp: the Spacy language model, defaults to de_core_news_lg
+        """
+
+        try:
+            assert(self.transcript is not None)
+        except AssertionError:
+            print(f"Error: No transcript in {self.title}!")
+
+        transcript = "".join(self.transcript)
+        self.entities = nlp(transcript).ents
 
     @staticmethod
     def transcripts2documents() -> List[Document]:
@@ -99,7 +109,8 @@ class Document:
     def transcripts2characters(documents: List[Document] = None) -> List[Document]:
         """ blah
 
-        :param documents: blah"""
+        :param documents: the documents, defaults to None
+        """
 
         if documents is None:
             documents = Document.transcripts2documents()
@@ -114,8 +125,24 @@ class Document:
 
         return documents
 
-ner()
+    def serialize_entities(self) -> List[List]:
+        """ Serialize entities for export. """
 
-for doc in Document.transcripts2characters():
-    print(doc.title, doc.char_range) # Dokument 68 (172898, 173195)
-    # Zuordnung stimmt nicht, ner pro dokument machen
+        return [[self.title, x.text.replace('\n', ''), x.label_] for x in self.entities]
+
+
+def app():
+    """ Test app. """
+
+    documents = Document.transcripts2documents()
+    nlp = spacy.load("de_core_news_lg")
+    export = []
+    for document in documents:
+        document.transcript2entities(nlp=nlp)
+        export.extend(document.serialize_entities())
+    _Utility.save_csv(header=["dc:title", "ent.text", "ent.label_"],
+                      data=export,
+                      file_path=DIR + "/test.csv")
+
+
+app()
