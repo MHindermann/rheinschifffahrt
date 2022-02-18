@@ -105,7 +105,7 @@ class Document:
     def serialize_entities(self) -> List[List]:
         """ Serialize entities for export. """
 
-        return [[self.title, x.text.replace('\n', ''), x.label_] for x in self.entities]
+        return [[self.title, x.text.replace('\n', ''), x.label_, x.start_char, x.end_char] for x in self.entities]
 
 
 class App:
@@ -126,9 +126,13 @@ class App:
             document.transcript2entities(nlp=nlp)
             export.extend(document.serialize_entities())
 
-        _Utility.save_csv(header=["dc:title", "ent.text", "ent.label_"],
+        _Utility.save_csv(header=["dc:source",
+                                  "spacy:ent.text",
+                                  "spacy:ent.label_",
+                                  "spacy:ent.start_char",
+                                  "spacy:ent.end_char"],
                           data=export,
                           file_path=file_path)
 
-
+exit()
 App.entities_per_document()
