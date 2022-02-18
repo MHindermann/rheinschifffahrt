@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.3:model_id=36202:lm=none:date=08_02_2022_11:57
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.3:model_id=36202:date=08_02_2022_11:56
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-02-08T11:27:27.097+01:00</Created>
+        <LastChange>2022-02-08T11:57:53.677+01:00</LastChange>
+        <TranskribusMetadata docId="914247" pageId="34922003" pageNr="94" tsid="74965169" status="IN_PROGRESS" userId="100217" imgUrl="https://files.transkribus.eu/Get?id=ZCMZCVJKJHKSIJJWKAHBBGYL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BIOLTJJNSLBKWUAQXGNYUSWG" imageId="28063371"/>
+    </Metadata>
+    <Page imageFilename="0094.jpg" imageWidth="1961" imageHeight="2844">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644935256990" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="367,294 367,1234 1783,1234 1783,294"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="361,368 1570,379 1791,359 1791,273 360,312"/>
+                <Baseline points="369,352 439,352 510,352 581,351 651,351 722,350 793,350 863,349 934,348 1005,347 1076,347 1146,346 1217,345 1288,344 1358,344 1429,343 1500,343 1570,342 1641,342 1712,342 1783,342"/>
+                <Word id="r1l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="370,312 370,372 536,372 536,312"/>
+                    <TextEquiv>
+                        <Unicode>Seiten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="578,311 578,371 662,371 662,311"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="703,310 703,370 870,370 870,310"/>
+                    <TextEquiv>
+                        <Unicode>Basler</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="911,304 911,364 1786,364 1786,304"/>
+                    <TextEquiv>
+                        <Unicode>Rheinschiffahrt-Aktiengesell-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Seiten der Basler Rheinschiffahrt-Aktiengesell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="358,474 1397,480 1577,468 1577,416 567,426 487,388 358,421"/>
+                <Baseline points="367,453 427,453 487,453 547,452 607,452 667,452 727,452 787,452 847,451 907,451 967,451 1027,450 1087,450 1147,449 1207,449 1267,448 1327,448 1387,447 1447,447 1507,446 1568,446"/>
+                <Word id="r1l2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="366,413 366,473 537,473 537,413"/>
+                    <TextEquiv>
+                        <Unicode>schaft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="575,412 575,472 689,472 689,412"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="726,411 726,471 1144,471 1144,411"/>
+                    <TextEquiv>
+                        <Unicode>Entschuldigung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1188,408 1188,468 1238,468 1238,408"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1283,407 1283,467 1548,467 1548,407"/>
+                    <TextEquiv>
+                        <Unicode>erwarten.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>schaft eine Entschuldigung zu erwarten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="483,587 1752,584 1751,504 1691,496 483,504"/>
+                <Baseline points="492,549 554,550 617,551 679,551 742,552 804,552 867,552 929,551 992,551 1054,551 1117,550 1180,550 1242,549 1305,549 1367,548 1430,548 1492,548 1555,547 1617,547 1680,547 1743,547"/>
+                <Word id="r1l3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="490,509 490,569 567,569 567,509"/>
+                    <TextEquiv>
+                        <Unicode>Mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="609,511 609,571 686,571 686,511"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="734,512 734,572 965,572 965,512"/>
+                    <TextEquiv>
+                        <Unicode>Ausdruck</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1006,509 1006,569 1363,569 1363,509"/>
+                    <TextEquiv>
+                        <Unicode>vorzüglicher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1405,507 1405,567 1725,567 1725,507"/>
+                    <TextEquiv>
+                        <Unicode>Hochachtung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mit dem Ausdruck vorzüglicher Hochachtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="378,1244 472,1234 493,1252 557,1253 631,1232 663,1235 662,1161 616,1170 566,1143 529,1154 377,1156"/>
+                <Baseline points="387,1206 413,1209 440,1210 466,1210 493,1210 520,1209 546,1207 573,1206 599,1206 626,1206 653,1209"/>
+                <Word id="r1l4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="385,1166 385,1226 395,1226 395,1166"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l4_w2" custom="readingOrder {index:1;}">
+                    <Coords points="433,1167 433,1227 643,1227 643,1167"/>
+                    <TextEquiv>
+                        <Unicode>Beilage</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1 Beilage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

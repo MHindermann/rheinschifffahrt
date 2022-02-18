@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.3:model_id=36202:lm=none:date=08_02_2022_11:57
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.3:model_id=36202:date=08_02_2022_11:56
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-02-08T11:27:26.181+01:00</Created>
+        <LastChange>2022-02-08T11:57:49.431+01:00</LastChange>
+        <TranskribusMetadata docId="914247" pageId="34921995" pageNr="86" tsid="74965148" status="IN_PROGRESS" userId="100217" imgUrl="https://files.transkribus.eu/Get?id=WVAWDBRAEVDVRFAFTZMFVTJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BPBXGQGIHOROODQXDWUFMQYR" imageId="28063363"/>
+    </Metadata>
+    <Page imageFilename="0086.jpg" imageWidth="1939" imageHeight="2854">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644935255235" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="609,859 609,1012 687,1012 687,859"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="603,1001 611,1000 623,1011 638,1007 647,998 663,999 667,995 674,1000 691,992 693,912 679,918 654,913 605,914"/>
+                <Baseline points="609,960 635,959 661,960 687,962"/>
+                <Word id="r1l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="601,919 601,979 676,979 676,919"/>
+                    <TextEquiv>
+                        <Unicode>lag</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>lag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="888,410 888,696 1578,696 1578,410"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="882,476 1583,487 1573,431 1461,440 1413,410 1085,432 884,401"/>
+                <Baseline points="888,458 922,460 957,461 991,462 1026,463 1060,465 1095,465 1129,466 1164,467 1198,468 1233,469 1267,469 1302,470 1336,471 1371,471 1405,472 1440,472 1474,473 1509,474 1543,475 1578,475"/>
+                <Word id="r2l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="887,420 887,480 973,480 973,420"/>
+                    <TextEquiv>
+                        <Unicode>Mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r2l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1020,424 1020,484 1099,484 1099,424"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r2l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1138,428 1138,488 1318,488 1318,428"/>
+                    <TextEquiv>
+                        <Unicode>besten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r2l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1365,432 1365,492 1569,492 1569,432"/>
+                    <TextEquiv>
+                        <Unicode>Grüssen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mit den besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1049,590 1194,584 1225,596 1377,579 1438,598 1463,592 1464,530 1313,531 1245,514 1120,531 1050,523"/>
+                <Baseline points="1054,565 1079,565 1104,566 1129,566 1155,567 1180,568 1205,568 1230,569 1256,569 1281,570 1306,571 1331,572 1357,572 1382,573 1407,574 1432,575 1458,575"/>
+                <Word id="r2l2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1051,528 1051,588 1318,588 1318,528"/>
+                    <TextEquiv>
+                        <Unicode>verbleibe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r2l2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1356,533 1356,593 1434,593 1434,533"/>
+                    <TextEquiv>
+                        <Unicode>ich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>verbleibe ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1292,688 1305,686 1313,690 1328,684 1351,694 1362,686 1393,694 1394,635 1357,635 1320,610 1307,618 1293,614"/>
+                <Baseline points="1297,670 1327,670 1358,672 1389,670"/>
+                <Word id="r2l3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1296,630 1296,690 1374,690 1374,630"/>
+                    <TextEquiv>
+                        <Unicode>Ihr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

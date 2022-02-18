@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:25.407+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3608" WIDTH="2925">
+         <TopMargin HEIGHT="0" WIDTH="2925" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="2925"/>
+         <BottomMargin HEIGHT="0" WIDTH="2925" VPOS="3608" HPOS="0"/>
+         <PrintSpace HEIGHT="3608" WIDTH="2925" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1956" WIDTH="1617" VPOS="284" HPOS="875">
+               <Shape>
+                  <Polygon POINTS="875,284 875,2240 2492,2240 2492,284"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="2321,336 2349,338 2378,339 2407,341 2436,345 2465,351"
+                         HEIGHT="107"
+                         WIDTH="173"
+                         VPOS="243"
+                         HPOS="2310">
+                  <String ID="string_r1l1"
+                          HEIGHT="107"
+                          WIDTH="173"
+                          VPOS="243"
+                          HPOS="2310"
+                          CONTENT="18"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1602,722 1640,722 1679,723 1718,723 1756,723 1795,723 1834,723 1872,723 1911,723 1950,723 1989,723 2027,723 2066,725 2105,725 2143,725 2182,726 2221,726 2259,727 2298,728 2337,729 2376,731"
+                         HEIGHT="119"
+                         WIDTH="793"
+                         VPOS="637"
+                         HPOS="1593">
+                  <String ID="string_r1l2"
+                          HEIGHT="119"
+                          WIDTH="793"
+                          VPOS="637"
+                          HPOS="1593"
+                          CONTENT="Basel, den 12. März 1928."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="894,818 923,822 952,824 981,822 1011,821"
+                         HEIGHT="91"
+                         WIDTH="138"
+                         VPOS="755"
+                         HPOS="884">
+                  <String ID="string_r1l3"
+                          HEIGHT="91"
+                          WIDTH="138"
+                          VPOS="755"
+                          HPOS="884"
+                          CONTENT="0/R"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1064,1122 1117,1122 1171,1124 1225,1124 1279,1125 1333,1125 1387,1125 1441,1125 1495,1125 1549,1125 1603,1125 1656,1125 1710,1125 1764,1125 1818,1127 1872,1127 1926,1128 1980,1130 2034,1131 2088,1133 2142,1136"
+                         HEIGHT="106"
+                         WIDTH="1096"
+                         VPOS="1052"
+                         HPOS="1055">
+                  <String ID="string_r1l4"
+                          HEIGHT="106"
+                          WIDTH="1096"
+                          VPOS="1052"
+                          HPOS="1055"
+                          CONTENT="An die Basler Rheinschiffahrt A.G.,"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="2162,1230 2187,1230 2212,1232 2238,1232 2263,1232 2288,1232 2314,1232 2339,1232 2365,1232 2390,1233 2415,1233 2441,1234 2466,1235 2492,1236"
+                         HEIGHT="82"
+                         WIDTH="349"
+                         VPOS="1169"
+                         HPOS="2152">
+                  <String ID="string_r1l5"
+                          HEIGHT="82"
+                          WIDTH="349"
+                          VPOS="1169"
+                          HPOS="2152"
+                          CONTENT="Basel."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="1076,1374 1144,1376 1213,1377 1281,1378 1350,1379 1419,1380 1487,1380 1556,1380 1624,1382 1693,1382 1762,1382 1830,1383 1899,1383 1967,1383 2036,1383 2105,1383 2173,1383 2242,1383 2310,1383 2379,1383 2448,1383"
+                         HEIGHT="116"
+                         WIDTH="1391"
+                         VPOS="1300"
+                         HPOS="1067">
+                  <String ID="string_r1l6"
+                          HEIGHT="116"
+                          WIDTH="1391"
+                          VPOS="1300"
+                          HPOS="1067"
+                          CONTENT="Wir bekennen uns zum Empfang Ihres Schreibens"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="899,1481 976,1481 1053,1482 1130,1482 1207,1482 1284,1482 1361,1484 1438,1484 1515,1484 1592,1484 1670,1484 1747,1485 1824,1485 1901,1485 1978,1485 2055,1485 2132,1487 2209,1487 2286,1487 2363,1488 2441,1488"
+                         HEIGHT="95"
+                         WIDTH="1563"
+                         VPOS="1421"
+                         HPOS="888">
+                  <String ID="string_r1l7"
+                          HEIGHT="95"
+                          WIDTH="1563"
+                          VPOS="1421"
+                          HPOS="888"
+                          CONTENT="vom 1.ds. und teilen Ihnen höflich mit, dass dessen"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="875,1577 954,1578 1034,1580 1114,1581 1194,1583 1274,1583 1354,1584 1434,1584 1514,1584 1594,1586 1674,1586 1754,1586 1834,1586 1914,1586 1994,1586 2074,1586 2154,1586 2234,1587 2314,1587 2394,1587"
+                         HEIGHT="88"
+                         WIDTH="1539"
+                         VPOS="1545"
+                         HPOS="865">
+                  <String ID="string_r1l8"
+                          HEIGHT="88"
+                          WIDTH="1539"
+                          VPOS="1545"
+                          HPOS="865"
+                          CONTENT="Behandlung auf der Traktandenliste der Vorstands-"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="875,1680 917,1681 959,1682 1001,1683 1043,1683 1085,1685 1127,1685 1170,1685 1212,1686 1254,1686 1296,1686 1338,1686 1380,1686 1422,1686 1465,1688 1507,1688 1549,1688 1591,1688 1633,1688 1675,1688 1718,1689"
+                         HEIGHT="106"
+                         WIDTH="863"
+                         VPOS="1634"
+                         HPOS="864">
+                  <String ID="string_r1l9"
+                          HEIGHT="106"
+                          WIDTH="863"
+                          VPOS="1634"
+                          HPOS="864"
+                          CONTENT="Sitzung vom 13. März steht."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1068,1781 1138,1781 1208,1782 1278,1783 1348,1784 1419,1785 1489,1785 1559,1787 1629,1787 1699,1788 1770,1788 1840,1788 1910,1790 1980,1790 2050,1790 2121,1791 2191,1791 2261,1791 2331,1791 2401,1791 2472,1791"
+                         HEIGHT="102"
+                         WIDTH="1424"
+                         VPOS="1739"
+                         HPOS="1058">
+                  <String ID="string_r1l10"
+                          HEIGHT="102"
+                          WIDTH="1424"
+                          VPOS="1739"
+                          HPOS="1058"
+                          CONTENT="Wir werden nicht verfehlen Ihnen in Kürze wei-"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="876,1886 951,1886 1026,1886 1102,1886 1177,1886 1253,1887 1328,1887 1404,1887 1479,1889 1555,1889 1630,1890 1705,1890 1781,1892 1856,1892 1932,1892 2007,1892 2083,1893 2158,1893 2234,1893 2309,1893 2385,1892"
+                         HEIGHT="96"
+                         WIDTH="1528"
+                         VPOS="1838"
+                         HPOS="866">
+                  <String ID="string_r1l11"
+                          HEIGHT="96"
+                          WIDTH="1528"
+                          VPOS="1838"
+                          HPOS="866"
+                          CONTENT="tere Mitteilungen zukommen zu lassen und zeichnen"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1793,1995 1819,1994 1846,1994 1873,1994 1900,1994 1927,1994 1954,1995 1980,1995 2007,1995 2034,1996 2061,1997 2088,1997 2115,1998 2142,1998 2168,1998 2195,1999 2222,2000 2249,2000 2276,2000 2303,2000 2330,2000"
+                         HEIGHT="116"
+                         WIDTH="559"
+                         VPOS="1927"
+                         HPOS="1782">
+                  <String ID="string_r1l12"
+                          HEIGHT="116"
+                          WIDTH="559"
+                          VPOS="1927"
+                          HPOS="1782"
+                          CONTENT="hochachtungsvoll:"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="1880,2213 1908,2214 1936,2213 1964,2211 1993,2208 2021,2206 2049,2203 2078,2201"
+                         HEIGHT="106"
+                         WIDTH="221"
+                         VPOS="2152"
+                         HPOS="1867">
+                  <String ID="string_r1l13"
+                          HEIGHT="106"
+                          WIDTH="221"
+                          VPOS="2152"
+                          HPOS="1867"
+                          CONTENT="Der Gesch"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

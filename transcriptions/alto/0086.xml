@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:35.272+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2854" WIDTH="1939">
+         <TopMargin HEIGHT="0" WIDTH="1939" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2854" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2854" WIDTH="0" VPOS="0" HPOS="1939"/>
+         <BottomMargin HEIGHT="0" WIDTH="1939" VPOS="2854" HPOS="0"/>
+         <PrintSpace HEIGHT="2854" WIDTH="1939" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="153" WIDTH="78" VPOS="859" HPOS="609">
+               <Shape>
+                  <Polygon POINTS="609,859 609,1012 687,1012 687,859"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="609,960 635,959 661,960 687,962"
+                         HEIGHT="99"
+                         WIDTH="90"
+                         VPOS="912"
+                         HPOS="603">
+                  <String ID="string_r1l1"
+                          HEIGHT="99"
+                          WIDTH="90"
+                          VPOS="912"
+                          HPOS="603"
+                          CONTENT="lag"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="286" WIDTH="690" VPOS="410" HPOS="888">
+               <Shape>
+                  <Polygon POINTS="888,410 888,696 1578,696 1578,410"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="888,458 922,460 957,461 991,462 1026,463 1060,465 1095,465 1129,466 1164,467 1198,468 1233,469 1267,469 1302,470 1336,471 1371,471 1405,472 1440,472 1474,473 1509,474 1543,475 1578,475"
+                         HEIGHT="86"
+                         WIDTH="701"
+                         VPOS="401"
+                         HPOS="882">
+                  <String ID="string_r2l1"
+                          HEIGHT="86"
+                          WIDTH="701"
+                          VPOS="401"
+                          HPOS="882"
+                          CONTENT="Mit den besten Grüssen"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1054,565 1079,565 1104,566 1129,566 1155,567 1180,568 1205,568 1230,569 1256,569 1281,570 1306,571 1331,572 1357,572 1382,573 1407,574 1432,575 1458,575"
+                         HEIGHT="84"
+                         WIDTH="415"
+                         VPOS="514"
+                         HPOS="1049">
+                  <String ID="string_r2l2"
+                          HEIGHT="84"
+                          WIDTH="415"
+                          VPOS="514"
+                          HPOS="1049"
+                          CONTENT="verbleibe ich"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1297,670 1327,670 1358,672 1389,670"
+                         HEIGHT="84"
+                         WIDTH="102"
+                         VPOS="610"
+                         HPOS="1292">
+                  <String ID="string_r2l3"
+                          HEIGHT="84"
+                          WIDTH="102"
+                          VPOS="610"
+                          HPOS="1292"
+                          CONTENT="Ihr"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

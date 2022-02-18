@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:47.321+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3798" WIDTH="2845">
+         <TopMargin HEIGHT="0" WIDTH="2845" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3798" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3798" WIDTH="0" VPOS="0" HPOS="2845"/>
+         <BottomMargin HEIGHT="0" WIDTH="2845" VPOS="3798" HPOS="0"/>
+         <PrintSpace HEIGHT="3798" WIDTH="2845" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2978" WIDTH="2037" VPOS="322" HPOS="599">
+               <Shape>
+                  <Polygon POINTS="599,322 599,3300 2636,3300 2636,322"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1431,374 1445,371"
+                         HEIGHT="109"
+                         WIDTH="60"
+                         VPOS="285"
+                         HPOS="1401">
+                  <String ID="string_r1l1"
+                          HEIGHT="109"
+                          WIDTH="60"
+                          VPOS="285"
+                          HPOS="1401"
+                          CONTENT="2"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="872,524 954,522 1036,522 1118,522 1201,522 1283,522 1365,522 1447,522 1530,522 1612,522 1694,522 1776,522 1859,524 1941,524 2023,524 2105,524 2188,524 2270,524 2352,524 2434,524 2517,524"
+                         HEIGHT="96"
+                         WIDTH="1671"
+                         VPOS="466"
+                         HPOS="860">
+                  <String ID="string_r1l2"
+                          HEIGHT="96"
+                          WIDTH="1671"
+                          VPOS="466"
+                          HPOS="860"
+                          CONTENT="Aehnliches gilt für Kaiseraugst. Dort ist die Frequenz"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="606,624 704,624 802,624 901,624 999,624 1097,624 1196,623 1294,623 1392,624 1491,624 1589,624 1687,624 1786,624 1884,624 1982,624 2081,624 2179,624 2277,624 2376,624 2474,626 2573,626"
+                         HEIGHT="92"
+                         WIDTH="1994"
+                         VPOS="576"
+                         HPOS="593">
+                  <String ID="string_r1l3"
+                          HEIGHT="92"
+                          WIDTH="1994"
+                          VPOS="576"
+                          HPOS="593"
+                          CONTENT="noch schlimmer als in Schweizerhalle. Die Station Basel-Augst ist"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="600,726 698,725 797,725 895,725 994,725 1092,725 1191,725 1289,724 1388,723 1486,723 1585,723 1684,723 1782,723 1881,723 1979,723 2078,723 2176,723 2275,723 2373,723 2472,723 2571,723"
+                         HEIGHT="106"
+                         WIDTH="1997"
+                         VPOS="670"
+                         HPOS="586">
+                  <String ID="string_r1l4"
+                          HEIGHT="106"
+                          WIDTH="1997"
+                          VPOS="670"
+                          HPOS="586"
+                          CONTENT="kaum 10 Minuten von Kaiseraugst entfernt und es ist betriebstech-"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="602,825 700,825 799,825 897,825 996,825 1094,825 1193,825 1291,825 1390,825 1488,825 1587,825 1686,825 1784,825 1883,825 1981,825 2080,825 2178,825 2277,825 2375,827 2474,827 2573,827"
+                         HEIGHT="86"
+                         WIDTH="1996"
+                         VPOS="771"
+                         HPOS="590">
+                  <String ID="string_r1l5"
+                          HEIGHT="86"
+                          WIDTH="1996"
+                          VPOS="771"
+                          HPOS="590"
+                          CONTENT="nisch ein Unsinn in Kaiseraugst aufzudrehen und grosse Manöver zu"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="600,927 667,927 734,926 802,926 869,924 937,924 1004,924 1072,924 1139,924 1207,924 1274,924 1341,924 1409,924 1476,924 1544,924 1611,924 1679,924 1746,926 1814,926 1881,926 1949,926"
+                         HEIGHT="80"
+                         WIDTH="1373"
+                         VPOS="871"
+                         HPOS="588">
+                  <String ID="string_r1l6"
+                          HEIGHT="80"
+                          WIDTH="1373"
+                          VPOS="871"
+                          HPOS="588"
+                          CONTENT="vollziehen wegen einem oder keinem Passagier."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="870,1025 953,1025 1037,1025 1121,1025 1204,1025 1288,1025 1372,1025 1455,1025 1539,1025 1623,1025 1707,1025 1790,1025 1874,1025 1958,1025 2041,1025 2125,1025 2209,1026 2292,1026 2376,1026 2460,1026 2544,1026"
+                         HEIGHT="93"
+                         WIDTH="1699"
+                         VPOS="973"
+                         HPOS="857">
+                  <String ID="string_r1l7"
+                          HEIGHT="93"
+                          WIDTH="1699"
+                          VPOS="973"
+                          HPOS="857"
+                          CONTENT="Kaiseraugst leidet unter der Nichtbedienung der Station"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="603,1128 700,1127 798,1127 895,1127 993,1127 1090,1127 1188,1127 1285,1127 1383,1127 1480,1127 1578,1127 1675,1128 1773,1128 1870,1128 1968,1128 2065,1127 2163,1127 2260,1127 2358,1125 2455,1125 2553,1124"
+                         HEIGHT="70"
+                         WIDTH="1974"
+                         VPOS="1094"
+                         HPOS="591">
+                  <String ID="string_r1l8"
+                          HEIGHT="70"
+                          WIDTH="1974"
+                          VPOS="1094"
+                          HPOS="591"
+                          CONTENT="unter keinen Umstämden, da die meisten Leute, die Kaiseraugst be-"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="600,1227 696,1227 792,1226 888,1226 984,1226 1080,1226 1176,1226 1272,1226 1368,1226 1464,1226 1560,1226 1656,1226 1752,1226 1848,1226 1944,1226 2040,1226 2136,1226 2232,1226 2328,1227 2424,1227 2520,1227"
+                         HEIGHT="90"
+                         WIDTH="1946"
+                         VPOS="1174"
+                         HPOS="588">
+                  <String ID="string_r1l9"
+                          HEIGHT="90"
+                          WIDTH="1946"
+                          VPOS="1174"
+                          HPOS="588"
+                          CONTENT="suchen, vorerst einen kleinen Bummel ausführen wollen. Der gege-"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="599,1326 690,1326 782,1326 874,1326 965,1326 1057,1326 1149,1326 1240,1326 1332,1326 1424,1326 1516,1326 1607,1326 1699,1326 1791,1326 1882,1326 1974,1326 2066,1326 2157,1326 2249,1326 2341,1328 2433,1328"
+                         HEIGHT="107"
+                         WIDTH="1858"
+                         VPOS="1265"
+                         HPOS="587">
+                  <String ID="string_r1l10"
+                          HEIGHT="107"
+                          WIDTH="1858"
+                          VPOS="1265"
+                          HPOS="587"
+                          CONTENT="bene Bummel ist der von Station Basel-Augst nach Kaiseraugst."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="891,1427 972,1427 1053,1427 1134,1428 1215,1428 1296,1428 1377,1428 1458,1428 1539,1427 1620,1427 1701,1427 1782,1427 1863,1427 1944,1427 2025,1427 2106,1427 2187,1427 2268,1427 2349,1427 2430,1427"
+                         HEIGHT="96"
+                         WIDTH="1565"
+                         VPOS="1369"
+                         HPOS="879">
+                  <String ID="string_r1l11"
+                          HEIGHT="96"
+                          WIDTH="1565"
+                          VPOS="1369"
+                          HPOS="879"
+                          CONTENT="Wir haben vor Publikation dieser Massnahme dem eidg."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="600,1530 694,1530 789,1529 884,1529 979,1529 1074,1529 1168,1529 1263,1529 1358,1529 1453,1529 1548,1529 1642,1529 1737,1529 1832,1529 1927,1529 2022,1529 2116,1527 2211,1527 2306,1527 2401,1526 2496,1524"
+                         HEIGHT="81"
+                         WIDTH="1921"
+                         VPOS="1475"
+                         HPOS="588">
+                  <String ID="string_r1l12"
+                          HEIGHT="81"
+                          WIDTH="1921"
+                          VPOS="1475"
+                          HPOS="588"
+                          CONTENT="Post- und Eisenbahn-Departement davon Kenntnis gegeben und die-"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="614,1631 670,1631 726,1631 782,1631 838,1631 894,1631 950,1629 1007,1629 1063,1629 1119,1629 1175,1629 1231,1629 1287,1628 1343,1628 1400,1628 1456,1628 1512,1628 1568,1628 1624,1628 1680,1628 1737,1629"
+                         HEIGHT="97"
+                         WIDTH="1148"
+                         VPOS="1577"
+                         HPOS="601">
+                  <String ID="string_r1l13"
+                          HEIGHT="97"
+                          WIDTH="1148"
+                          VPOS="1577"
+                          HPOS="601"
+                          CONTENT="se Instanz hat den Fahrplan genehmigt."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="876,1728 958,1728 1041,1728 1124,1728 1207,1728 1290,1728 1372,1728 1455,1730 1538,1730 1621,1730 1704,1730 1786,1728 1869,1728 1952,1728 2035,1728 2118,1728 2200,1727 2283,1727 2366,1725 2449,1724 2532,1724"
+                         HEIGHT="104"
+                         WIDTH="1681"
+                         VPOS="1676"
+                         HPOS="864">
+                  <String ID="string_r1l14"
+                          HEIGHT="104"
+                          WIDTH="1681"
+                          VPOS="1676"
+                          HPOS="864"
+                          CONTENT="Wir müssen darnach trachten, den ganzen Betrieb rentab-"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="612,1832 708,1832 805,1832 902,1830 999,1830 1096,1830 1193,1830 1290,1830 1387,1830 1484,1829 1581,1829 1677,1829 1774,1829 1871,1829 1968,1828 2065,1827 2162,1827 2259,1827 2356,1827 2453,1826 2550,1826"
+                         HEIGHT="88"
+                         WIDTH="1964"
+                         VPOS="1785"
+                         HPOS="598">
+                  <String ID="string_r1l15"
+                          HEIGHT="88"
+                          WIDTH="1964"
+                          VPOS="1785"
+                          HPOS="598"
+                          CONTENT="ler zu gestalten. Zu diesen Massnahmen gehört auch die Aufhebung"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="612,1931 708,1931 805,1931 902,1931 999,1931 1095,1931 1192,1931 1289,1930 1386,1929 1482,1929 1579,1929 1676,1928 1773,1928 1869,1928 1966,1928 2063,1928 2160,1928 2256,1928 2353,1928 2450,1928 2547,1928"
+                         HEIGHT="109"
+                         WIDTH="1961"
+                         VPOS="1867"
+                         HPOS="600">
+                  <String ID="string_r1l16"
+                          HEIGHT="109"
+                          WIDTH="1961"
+                          VPOS="1867"
+                          HPOS="600"
+                          CONTENT="überflüssiger Haltestellen in dem Sinne, dass es uns gelingt, die"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="600,2034 696,2033 793,2031 890,2031 987,2030 1084,2030 1181,2030 1277,2028 1374,2028 1471,2028 1568,2028 1665,2027 1762,2027 1859,2027 1955,2027 2052,2027 2149,2027 2246,2027 2343,2027 2440,2027 2537,2027"
+                         HEIGHT="101"
+                         WIDTH="1963"
+                         VPOS="1963"
+                         HPOS="587">
+                  <String ID="string_r1l17"
+                          HEIGHT="101"
+                          WIDTH="1963"
+                          VPOS="1963"
+                          HPOS="587"
+                          CONTENT="Fahrzeit zu verkürzen, denn nur durch Fahrzeitverkürzung wird es"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="602,2133 675,2132 749,2130 823,2130 896,2130 970,2129 1044,2129 1117,2129 1191,2129 1265,2129 1339,2129 1412,2129 1486,2129 1560,2129 1633,2129 1707,2129 1781,2129 1854,2128 1928,2127 2002,2127 2076,2126"
+                         HEIGHT="77"
+                         WIDTH="1499"
+                         VPOS="2084"
+                         HPOS="588">
+                  <String ID="string_r1l18"
+                          HEIGHT="77"
+                          WIDTH="1499"
+                          VPOS="2084"
+                          HPOS="588"
+                          CONTENT="uns möglich sein, weiteres Publikum heranzuziehen."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="875,2234 961,2232 1048,2232 1135,2231 1222,2231 1309,2229 1396,2229 1482,2229 1569,2229 1656,2228 1743,2228 1830,2228 1917,2228 2004,2228 2090,2228 2177,2226 2264,2226 2351,2226 2438,2225 2525,2225 2612,2225"
+                         HEIGHT="101"
+                         WIDTH="1761"
+                         VPOS="2179"
+                         HPOS="863">
+                  <String ID="string_r1l19"
+                          HEIGHT="101"
+                          WIDTH="1761"
+                          VPOS="2179"
+                          HPOS="863"
+                          CONTENT="Die Bergfahrt von 2 Stunden und die Talfahrt von 1 Stunde"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="605,2336 703,2334 801,2333 899,2332 997,2331 1095,2331 1193,2331 1292,2330 1390,2330 1488,2330 1586,2330 1684,2330 1782,2330 1880,2330 1979,2330 2077,2330 2175,2328 2273,2328 2371,2327 2469,2325 2568,2324"
+                         HEIGHT="101"
+                         WIDTH="1989"
+                         VPOS="2277"
+                         HPOS="591">
+                  <String ID="string_r1l20"
+                          HEIGHT="101"
+                          WIDTH="1989"
+                          VPOS="2277"
+                          HPOS="591"
+                          CONTENT="für die kurze Strecke nach Rheinfelden resp. Basel ist eben ziem-"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="612,2436 712,2436 813,2436 914,2435 1015,2435 1116,2433 1217,2433 1318,2432 1419,2432 1520,2432 1621,2430 1721,2430 1822,2430 1923,2429 2024,2429 2125,2429 2226,2429 2327,2429 2428,2429 2529,2430 2630,2430"
+                         HEIGHT="111"
+                         WIDTH="2042"
+                         VPOS="2373"
+                         HPOS="600">
+                  <String ID="string_r1l21"
+                          HEIGHT="111"
+                          WIDTH="2042"
+                          VPOS="2373"
+                          HPOS="600"
+                          CONTENT="lich lang und die Gefahrder Abwanderung von Passagieren sehr gross,"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="599,2535 694,2535 789,2535 884,2535 979,2535 1074,2535 1169,2534 1265,2534 1360,2534 1455,2534 1550,2532 1645,2532 1740,2532 1835,2531 1931,2531 2026,2529 2121,2529 2216,2529 2311,2528 2406,2528 2502,2526"
+                         HEIGHT="101"
+                         WIDTH="1929"
+                         VPOS="2472"
+                         HPOS="587">
+                  <String ID="string_r1l22"
+                          HEIGHT="101"
+                          WIDTH="1929"
+                          VPOS="2472"
+                          HPOS="587"
+                          CONTENT="wenn wir nun die Fahrzeit, nachdem wir sie glücklich haben ver-"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="600,2637 660,2636 720,2636 780,2635 841,2634 901,2634 961,2634 1021,2634 1082,2633 1142,2633 1202,2633 1262,2633 1323,2633 1383,2633 1443,2633 1503,2633 1564,2633 1624,2633 1684,2631 1744,2631 1805,2630"
+                         HEIGHT="76"
+                         WIDTH="1229"
+                         VPOS="2595"
+                         HPOS="588">
+                  <String ID="string_r1l23"
+                          HEIGHT="76"
+                          WIDTH="1229"
+                          VPOS="2595"
+                          HPOS="588"
+                          CONTENT="kürzen können, wieder verlängern müssen."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="879,2735 966,2735 1054,2735 1142,2733 1230,2733 1318,2733 1406,2733 1493,2733 1581,2732 1669,2732 1757,2732 1845,2730 1933,2730 2021,2730 2108,2729 2196,2729 2284,2727 2372,2727 2460,2726 2548,2726 2636,2724"
+                         HEIGHT="84"
+                         WIDTH="1782"
+                         VPOS="2675"
+                         HPOS="866">
+                  <String ID="string_r1l24"
+                          HEIGHT="84"
+                          WIDTH="1782"
+                          VPOS="2675"
+                          HPOS="866"
+                          CONTENT="Wir haben indessen nichts dagegen, Kaiseraugst und Schwei-"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="620,2835 716,2835 813,2835 909,2835 1006,2835 1103,2835 1199,2834 1296,2834 1392,2834 1489,2832 1586,2832 1682,2831 1779,2831 1875,2829 1972,2829 2069,2828 2165,2828 2262,2826 2358,2826 2455,2825 2552,2825"
+                         HEIGHT="79"
+                         WIDTH="1956"
+                         VPOS="2767"
+                         HPOS="608">
+                  <String ID="string_r1l25"
+                          HEIGHT="79"
+                          WIDTH="1956"
+                          VPOS="2767"
+                          HPOS="608"
+                          CONTENT="zerhalle wieder zu bedienen, wenn wir hierfür eine Subvention er"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="600,2939 699,2937 799,2936 899,2936 999,2936 1098,2934 1198,2934 1298,2934 1398,2933 1497,2933 1597,2933 1697,2931 1797,2931 1896,2930 1996,2930 2096,2928 2196,2928 2295,2927 2395,2925 2495,2924 2595,2922"
+                         HEIGHT="97"
+                         WIDTH="2020"
+                         VPOS="2872"
+                         HPOS="588">
+                  <String ID="string_r1l26"
+                          HEIGHT="97"
+                          WIDTH="2020"
+                          VPOS="2872"
+                          HPOS="588"
+                          CONTENT="halten. Es geht nicht an, dass wir Jahr für Jahr die Betriebsdefi-"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="611,3038 710,3038 810,3038 909,3036 1009,3036 1109,3036 1208,3035 1308,3035 1408,3035 1507,3033 1607,3033 1707,3032 1806,3032 1906,3030 2006,3030 2105,3029 2205,3029 2305,3027 2404,3026 2504,3026 2604,3024"
+                         HEIGHT="92"
+                         WIDTH="2020"
+                         VPOS="2968"
+                         HPOS="598">
+                  <String ID="string_r1l27"
+                          HEIGHT="92"
+                          WIDTH="2020"
+                          VPOS="2968"
+                          HPOS="598"
+                          CONTENT="zite decken und dann dazu noch auf jede Reklamation von Uferanwoh-"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="606,3140 639,3140 673,3140 706,3140 740,3140 774,3140 807,3138 841,3138 874,3138 908,3138 942,3137 975,3137 1009,3137 1042,3137 1076,3137 1110,3137 1143,3137 1177,3137 1210,3137 1244,3137 1278,3138"
+                         HEIGHT="90"
+                         WIDTH="697"
+                         VPOS="3085"
+                         HPOS="593">
+                  <String ID="string_r1l28"
+                          HEIGHT="90"
+                          WIDTH="697"
+                          VPOS="3085"
+                          HPOS="593"
+                          CONTENT="nern eintreten müssen."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="2282,3273 2308,3276 2334,3276 2361,3276 2387,3276 2414,3276"
+                         HEIGHT="112"
+                         WIDTH="160"
+                         VPOS="3204"
+                         HPOS="2268">
+                  <String ID="string_r1l29"
+                          HEIGHT="112"
+                          WIDTH="160"
+                          VPOS="3204"
+                          HPOS="2268"
+                          CONTENT="- 3 -"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

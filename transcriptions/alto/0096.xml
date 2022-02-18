@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:37.452+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3608" WIDTH="2922">
+         <TopMargin HEIGHT="0" WIDTH="2922" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="2922"/>
+         <BottomMargin HEIGHT="0" WIDTH="2922" VPOS="3608" HPOS="0"/>
+         <PrintSpace HEIGHT="3608" WIDTH="2922" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="481" WIDTH="534" VPOS="395" HPOS="338">
+               <Shape>
+                  <Polygon POINTS="338,395 338,876 872,876 872,395"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="395,422 421,423 447,423 473,423 500,423 526,423 552,423 578,422 605,422 631,422 657,422 683,422 710,422 736,422 762,422 788,422 815,422"
+                         HEIGHT="77"
+                         WIDTH="439"
+                         VPOS="362"
+                         HPOS="385">
+                  <String ID="string_r1l1"
+                          HEIGHT="77"
+                          WIDTH="439"
+                          VPOS="362"
+                          HPOS="385"
+                          CONTENT="Dr. ADOLF BIEDER"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="342,492 368,491 394,491 421,491 447,491 473,491 500,489 526,489 552,489 579,489 605,489 631,488 658,488 684,488 710,488 737,487 763,486 789,486 816,486 842,486 869,485"
+                         HEIGHT="75"
+                         WIDTH="548"
+                         VPOS="444"
+                         HPOS="331">
+                  <String ID="string_r1l2"
+                          HEIGHT="75"
+                          WIDTH="548"
+                          VPOS="444"
+                          HPOS="331"
+                          CONTENT="Dr. HANS BURCKHARDT"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="363,558 388,557 413,557 438,557 463,557 488,555 513,555 538,555 563,555 588,555 614,554 639,554 664,554 689,554 714,554 739,554 764,554 789,554 814,555 840,555"
+                         HEIGHT="75"
+                         WIDTH="498"
+                         VPOS="501"
+                         HPOS="353">
+                  <String ID="string_r1l3"
+                          HEIGHT="75"
+                          WIDTH="498"
+                          VPOS="501"
+                          HPOS="353"
+                          CONTENT="Dr. RUDOLF LEUPOLD"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="417,618 442,617 468,617 494,617 520,616 546,615 571,615 597,615 623,615 649,615 675,615 700,615 726,615 752,615 778,615 804,615"
+                         HEIGHT="74"
+                         WIDTH="406"
+                         VPOS="571"
+                         HPOS="407">
+                  <String ID="string_r1l4"
+                          HEIGHT="74"
+                          WIDTH="406"
+                          VPOS="571"
+                          HPOS="407"
+                          CONTENT="Advokatur &amp; Notariat"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="543,675 571,674 600,673 629,672 658,674 687,675"
+                         HEIGHT="66"
+                         WIDTH="163"
+                         VPOS="627"
+                         HPOS="534">
+                  <String ID="string_r1l5"
+                          HEIGHT="66"
+                          WIDTH="163"
+                          VPOS="627"
+                          HPOS="534"
+                          CONTENT="BASEL"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="488,722 515,722 542,722 569,722 596,722 623,722 650,722 677,722 704,722 731,722"
+                         HEIGHT="67"
+                         WIDTH="262"
+                         VPOS="680"
+                         HPOS="479">
+                  <String ID="string_r1l6"
+                          HEIGHT="67"
+                          WIDTH="262"
+                          VPOS="680"
+                          HPOS="479"
+                          CONTENT="6 Barfüßergasse 6"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="338,812 364,812 391,812 418,812 444,812 471,812 498,812 524,810 551,810 578,810 605,810 631,810 658,810 685,810 711,810 738,810 765,810 791,810 818,810 845,812 872,812"
+                         HEIGHT="80"
+                         WIDTH="552"
+                         VPOS="746"
+                         HPOS="329">
+                  <String ID="string_r1l7"
+                          HEIGHT="80"
+                          WIDTH="552"
+                          VPOS="746"
+                          HPOS="329"
+                          CONTENT="TELEPHON: SAFRAN 39.62"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="422,861 448,863 475,863 501,864 528,863 554,863 581,863 608,862 634,861 661,861 687,861 714,861 740,861 767,862 794,864"
+                         HEIGHT="83"
+                         WIDTH="392"
+                         VPOS="817"
+                         HPOS="411">
+                  <String ID="string_r1l8"
+                          HEIGHT="83"
+                          WIDTH="392"
+                          VPOS="817"
+                          HPOS="411"
+                          CONTENT="POSTCHECKKONTO V 168"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="2125" WIDTH="1608" VPOS="338" HPOS="1050">
+               <Shape>
+                  <Polygon POINTS="1050,338 1050,2463 2658,2463 2658,338"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="2436,387 2461,387 2487,389 2512,389 2538,389 2563,389 2589,390"
+                         HEIGHT="173"
+                         WIDTH="176"
+                         VPOS="280"
+                         HPOS="2425">
+                  <String ID="string_r2l1"
+                          HEIGHT="173"
+                          WIDTH="176"
+                          VPOS="280"
+                          HPOS="2425"
+                          CONTENT="43"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1670,522 1700,521 1730,521 1761,520 1791,520 1821,519 1852,519 1882,518 1912,518 1943,518 1973,518 2003,518 2034,518 2064,518 2094,518 2125,518 2155,519 2185,519 2216,521 2246,521 2277,522"
+                         HEIGHT="196"
+                         WIDTH="626"
+                         VPOS="390"
+                         HPOS="1660">
+                  <String ID="string_r2l2"
+                          HEIGHT="196"
+                          WIDTH="626"
+                          VPOS="390"
+                          HPOS="1660"
+                          CONTENT="sel,den 19. Juni 1928"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1403,926 1465,924 1528,923 1591,923 1654,921 1716,920 1779,920 1842,918 1905,917 1967,915 2030,915 2093,914 2156,912 2218,911 2281,911 2344,909 2407,909 2469,908 2532,908 2595,906 2658,906"
+                         HEIGHT="148"
+                         WIDTH="1277"
+                         VPOS="836"
+                         HPOS="1392">
+                  <String ID="string_r2l3"
+                          HEIGHT="148"
+                          WIDTH="1277"
+                          VPOS="836"
+                          HPOS="1392"
+                          CONTENT="die Basler Personenschiffahrtsgesellschaft"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="1823,1022 1848,1020 1874,1019 1900,1018 1926,1017 1952,1017 1977,1017 2003,1016 2029,1016 2055,1016 2081,1016 2107,1016 2132,1016 2158,1016 2184,1016 2210,1014 2236,1013 2262,1011"
+                         HEIGHT="136"
+                         WIDTH="460"
+                         VPOS="945"
+                         HPOS="1813">
+                  <String ID="string_r2l4"
+                          HEIGHT="136"
+                          WIDTH="460"
+                          VPOS="945"
+                          HPOS="1813"
+                          CONTENT="Albangraben 8"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="2096,1118 2122,1116 2149,1115 2175,1115 2202,1115 2228,1115 2255,1116 2282,1116 2308,1118 2335,1118 2361,1119 2388,1118 2415,1118"
+                         HEIGHT="117"
+                         WIDTH="340"
+                         VPOS="1027"
+                         HPOS="2086">
+                  <String ID="string_r2l5"
+                          HEIGHT="117"
+                          WIDTH="340"
+                          VPOS="1027"
+                          HPOS="2086"
+                          CONTENT="BASEL"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="1203,1374 1275,1374 1347,1374 1419,1373 1491,1373 1563,1371 1635,1370 1707,1368 1779,1367 1851,1365 1923,1364 1995,1362 2067,1361 2139,1359 2211,1358 2283,1356 2355,1355 2427,1355 2499,1353 2571,1352 2643,1352"
+                         HEIGHT="114"
+                         WIDTH="1461"
+                         VPOS="1302"
+                         HPOS="1192">
+                  <String ID="string_r2l6"
+                          HEIGHT="114"
+                          WIDTH="1461"
+                          VPOS="1302"
+                          HPOS="1192"
+                          CONTENT="In der Beilage gebe ich Ihnen den Schiffsbrief"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="1086,1478 1161,1478 1237,1476 1312,1475 1388,1473 1463,1473 1539,1472 1614,1470 1690,1469 1765,1469 1841,1467 1917,1466 1992,1464 2068,1464 2143,1463 2219,1461 2294,1460 2370,1458 2445,1457 2521,1455 2597,1454"
+                         HEIGHT="136"
+                         WIDTH="1532"
+                         VPOS="1393"
+                         HPOS="1076">
+                  <String ID="string_r2l7"
+                          HEIGHT="136"
+                          WIDTH="1532"
+                          VPOS="1393"
+                          HPOS="1076"
+                          CONTENT="Albatros&#34; nach Gebrauch zurück. Gleichzeitig über-"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="1056,1581 1134,1580 1213,1578 1292,1577 1371,1575 1450,1575 1529,1574 1607,1572 1686,1571 1765,1570 1844,1569 1923,1568 2002,1566 2081,1565 2159,1564 2238,1562 2317,1560 2396,1559 2475,1557 2554,1555 2633,1553"
+                         HEIGHT="130"
+                         WIDTH="1596"
+                         VPOS="1496"
+                         HPOS="1045">
+                  <String ID="string_r2l8"
+                          HEIGHT="130"
+                          WIDTH="1596"
+                          VPOS="1496"
+                          HPOS="1045"
+                          CONTENT="mittle ich Ihnen die nun im Schiffsregister gelösch-"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="1058,1688 1133,1685 1209,1682 1285,1679 1361,1677 1437,1676 1512,1674 1588,1673 1664,1673 1740,1671 1816,1671 1891,1671 1967,1670 2043,1670 2119,1670 2195,1668 2270,1668 2346,1667 2422,1664 2498,1662 2574,1659"
+                         HEIGHT="130"
+                         WIDTH="1535"
+                         VPOS="1596"
+                         HPOS="1048">
+                  <String ID="string_r2l9"
+                          HEIGHT="130"
+                          WIDTH="1535"
+                          VPOS="1596"
+                          HPOS="1048"
+                          CONTENT="te Schiffsverschreibung von Fr. 64500.- zu Gunsten"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="1050,1791 1129,1788 1208,1785 1288,1782 1367,1781 1447,1779 1526,1777 1606,1776 1685,1775 1765,1773 1844,1773 1923,1773 2003,1772 2082,1772 2162,1770 2241,1770 2321,1769 2400,1767 2480,1766 2559,1764 2639,1761"
+                         HEIGHT="142"
+                         WIDTH="1612"
+                         VPOS="1696"
+                         HPOS="1039">
+                  <String ID="string_r2l10"
+                          HEIGHT="142"
+                          WIDTH="1612"
+                          VPOS="1696"
+                          HPOS="1039"
+                          CONTENT="der Basler Transport-Versicherungs-Gesellschaft. Ich"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="1073,1883 1132,1884 1192,1884 1251,1884 1311,1884 1371,1883 1430,1883 1490,1881 1549,1880 1609,1878 1669,1877 1728,1877 1788,1875 1847,1874 1907,1872 1967,1872 2026,1871 2086,1871 2145,1871 2205,1872 2265,1872"
+                         HEIGHT="124"
+                         WIDTH="1213"
+                         VPOS="1815"
+                         HPOS="1062">
+                  <String ID="string_r2l11"
+                          HEIGHT="124"
+                          WIDTH="1213"
+                          VPOS="1815"
+                          HPOS="1062"
+                          CONTENT="erlaube mir, meine Rechnung beizulegen."/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="1865,1974 1890,1974 1916,1973 1941,1973 1967,1973 1992,1971 2018,1971 2043,1971 2069,1970 2094,1970 2120,1970 2146,1970 2171,1970 2197,1971 2222,1971 2248,1971 2273,1973 2299,1973 2324,1973 2350,1974 2376,1976"
+                         HEIGHT="133"
+                         WIDTH="531"
+                         VPOS="1904"
+                         HPOS="1855">
+                  <String ID="string_r2l12"
+                          HEIGHT="133"
+                          WIDTH="531"
+                          VPOS="1904"
+                          HPOS="1855"
+                          CONTENT="Hochachtungsvoll"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="1830,2189 1858,2190 1886,2192 1915,2193 1943,2195 1971,2197 2000,2198 2028,2199 2056,2201 2085,2202 2113,2202 2142,2204 2170,2205 2198,2206 2227,2207 2255,2209 2283,2210 2312,2212 2340,2214 2369,2216"
+                         HEIGHT="155"
+                         WIDTH="562"
+                         VPOS="2084"
+                         HPOS="1819">
+                  <String ID="string_r2l13"
+                          HEIGHT="155"
+                          WIDTH="562"
+                          VPOS="2084"
+                          HPOS="1819"
+                          CONTENT="fstleote"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="1067,2438 1093,2437 1119,2436 1145,2436 1171,2436 1197,2436 1223,2436 1249,2436 1275,2436 1301,2436 1327,2436 1353,2437 1379,2438 1405,2438 1431,2439 1458,2439"
+                         HEIGHT="177"
+                         WIDTH="410"
+                         VPOS="2326"
+                         HPOS="1058">
+                  <String ID="string_r2l14"
+                          HEIGHT="177"
+                          WIDTH="410"
+                          VPOS="2326"
+                          HPOS="1058"
+                          CONTENT="Beilagen ern."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

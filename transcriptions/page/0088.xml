@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.3:model_id=36202:lm=none:date=08_02_2022_11:57
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.3:model_id=36202:date=08_02_2022_11:56
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-02-08T11:27:26.380+01:00</Created>
+        <LastChange>2022-02-08T11:57:50.233+01:00</LastChange>
+        <TranskribusMetadata docId="914247" pageId="34921997" pageNr="88" tsid="74965154" status="IN_PROGRESS" userId="100217" imgUrl="https://files.transkribus.eu/Get?id=UKSCJCQUTYBBMCKIWAUQOQBB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQZEMSYLMOINYMWWMQURMINO" imageId="28063365"/>
+    </Metadata>
+    <Page imageFilename="0088.jpg" imageWidth="2922" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644935255659" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="740,445 740,971 2588,971 2588,445"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1467,520 1478,521 1498,507 1500,510 1510,508 1514,514 1526,510 1546,513 1555,437 1541,435 1531,425 1517,426 1511,418 1497,419 1491,411 1479,410"/>
+                <Baseline points="1482,494 1509,499 1536,500"/>
+                <Word id="r1l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1474,459 1474,519 1555,519 1555,459"/>
+                    <TextEquiv>
+                        <Unicode>-2.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>-2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="731,692 2531,665 2600,598 1524,562 731,623"/>
+                <Baseline points="743,659 835,657 927,656 1019,656 1112,654 1204,653 1296,653 1388,651 1481,650 1573,650 1665,648 1757,648 1850,647 1942,646 2034,645 2126,644 2219,644 2311,642 2403,642 2495,641 2588,641"/>
+                <Word id="r1l2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="739,617 739,677 850,677 850,617"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="889,615 889,675 1160,675 1160,615"/>
+                    <TextEquiv>
+                        <Unicode>Abschrift</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1197,613 1197,673 1365,673 1365,613"/>
+                    <TextEquiv>
+                        <Unicode>meines</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1412,610 1412,670 1637,670 1637,610"/>
+                    <TextEquiv>
+                        <Unicode>heutigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1683,607 1683,667 1973,667 1973,607"/>
+                    <TextEquiv>
+                        <Unicode>Schreibens</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2019,604 2019,664 2067,664 2067,604"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2104,604 2104,664 2254,664 2254,604"/>
+                    <TextEquiv>
+                        <Unicode>Herrn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2291,602 2291,662 2375,662 2375,602"/>
+                    <TextEquiv>
+                        <Unicode>Dr.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2385,601 2385,661 2553,661 2553,601"/>
+                    <TextEquiv>
+                        <Unicode>Speich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>eine Abschrift meines heutigen Schreibens an Herrn Dr. Speich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="726,780 742,786 766,774 805,772 830,781 886,777 889,731 859,732 817,701 783,701 767,686 732,691"/>
+                <Baseline points="740,759 767,758 794,759 821,762 848,764 876,767"/>
+                <Word id="r1l3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="732,719 732,779 857,779 857,719"/>
+                    <TextEquiv>
+                        <Unicode>bei.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1158,874 2432,860 2404,782 2163,762 2078,800 1898,746 1377,814 1157,775"/>
+                <Baseline points="1169,851 1231,851 1294,852 1356,852 1419,852 1482,851 1544,851 1607,849 1669,849 1732,848 1795,846 1857,845 1920,845 1982,843 2045,843 2108,842 2170,842 2233,842 2295,842 2358,842 2421,842"/>
+                <Word id="r1l4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1170,811 1170,871 1249,871 1249,811"/>
+                    <TextEquiv>
+                        <Unicode>Mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l4_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1297,812 1297,872 1369,872 1369,812"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l4_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1416,811 1416,871 1646,871 1646,811"/>
+                    <TextEquiv>
+                        <Unicode>Ausdruck</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l4_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1687,805 1687,865 2036,865 2036,805"/>
+                    <TextEquiv>
+                        <Unicode>vorzüglicher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l4_w5" custom="readingOrder {index:4;}">
+                    <Coords points="2083,802 2083,862 2401,862 2401,802"/>
+                    <TextEquiv>
+                        <Unicode>Hochachtung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mit dem Ausdruck vorzüglicher Hochachtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1777,980 1833,994 1932,970 1971,986 2015,979 2043,1002 2087,974 2151,970 2204,944 2204,912 2109,887 1999,903 1969,882 1883,910 1842,890 1777,899"/>
+                <Baseline points="1790,947 1815,946 1840,945 1865,945 1890,945 1915,945 1940,945 1965,945 1991,945 2016,945 2041,945 2066,945 2091,945 2116,945 2141,945 2166,944 2192,944"/>
+                <Word id="r1l5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1781,905 1781,965 1857,965 1857,905"/>
+                    <TextEquiv>
+                        <Unicode>Ihr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1903,905 1903,965 2175,965 2175,905"/>
+                    <TextEquiv>
+                        <Unicode>ergebener</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ihr ergebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

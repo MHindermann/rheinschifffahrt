@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:37.025+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2844" WIDTH="1961">
+         <TopMargin HEIGHT="0" WIDTH="1961" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2844" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2844" WIDTH="0" VPOS="0" HPOS="1961"/>
+         <BottomMargin HEIGHT="0" WIDTH="1961" VPOS="2844" HPOS="0"/>
+         <PrintSpace HEIGHT="2844" WIDTH="1961" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="940" WIDTH="1416" VPOS="294" HPOS="367">
+               <Shape>
+                  <Polygon POINTS="367,294 367,1234 1783,1234 1783,294"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="369,352 439,352 510,352 581,351 651,351 722,350 793,350 863,349 934,348 1005,347 1076,347 1146,346 1217,345 1288,344 1358,344 1429,343 1500,343 1570,342 1641,342 1712,342 1783,342"
+                         HEIGHT="106"
+                         WIDTH="1431"
+                         VPOS="273"
+                         HPOS="360">
+                  <String ID="string_r1l1"
+                          HEIGHT="106"
+                          WIDTH="1431"
+                          VPOS="273"
+                          HPOS="360"
+                          CONTENT="Seiten der Basler Rheinschiffahrt-Aktiengesell-"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="367,453 427,453 487,453 547,452 607,452 667,452 727,452 787,452 847,451 907,451 967,451 1027,450 1087,450 1147,449 1207,449 1267,448 1327,448 1387,447 1447,447 1507,446 1568,446"
+                         HEIGHT="92"
+                         WIDTH="1219"
+                         VPOS="388"
+                         HPOS="358">
+                  <String ID="string_r1l2"
+                          HEIGHT="92"
+                          WIDTH="1219"
+                          VPOS="388"
+                          HPOS="358"
+                          CONTENT="schaft eine Entschuldigung zu erwarten."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="492,549 554,550 617,551 679,551 742,552 804,552 867,552 929,551 992,551 1054,551 1117,550 1180,550 1242,549 1305,549 1367,548 1430,548 1492,548 1555,547 1617,547 1680,547 1743,547"
+                         HEIGHT="91"
+                         WIDTH="1269"
+                         VPOS="496"
+                         HPOS="483">
+                  <String ID="string_r1l3"
+                          HEIGHT="91"
+                          WIDTH="1269"
+                          VPOS="496"
+                          HPOS="483"
+                          CONTENT="Mit dem Ausdruck vorzüglicher Hochachtung"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="387,1206 413,1209 440,1210 466,1210 493,1210 520,1209 546,1207 573,1206 599,1206 626,1206 653,1209"
+                         HEIGHT="110"
+                         WIDTH="286"
+                         VPOS="1143"
+                         HPOS="377">
+                  <String ID="string_r1l4"
+                          HEIGHT="110"
+                          WIDTH="286"
+                          VPOS="1143"
+                          HPOS="377"
+                          CONTENT="1 Beilage"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

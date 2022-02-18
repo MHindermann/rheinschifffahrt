@@ -99,7 +99,7 @@ class Document:
         for item in metadata["@graph"]:
             transcripts = []
             for photo in item["photo"]:
-                with open(DIR + f"/txt/{photo['title']}.txt", "r") as file:
+                with open(DIR + f"/transcriptions/txt/{photo['title']}.txt", "r") as file:
                     transcripts.append(file.read())
             documents.append(Document(title=item["title"],
                                       transcript=transcripts))

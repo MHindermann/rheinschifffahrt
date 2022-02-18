@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:34.077+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3607" WIDTH="2921">
+         <TopMargin HEIGHT="0" WIDTH="2921" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3607" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3607" WIDTH="0" VPOS="0" HPOS="2921"/>
+         <BottomMargin HEIGHT="0" WIDTH="2921" VPOS="3607" HPOS="0"/>
+         <PrintSpace HEIGHT="3607" WIDTH="2921" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2239" WIDTH="2032" VPOS="332" HPOS="524">
+               <Shape>
+                  <Polygon POINTS="524,332 524,2571 2556,2571 2556,332"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="2100,386 2126,387 2152,389 2178,389 2205,387 2231,387 2257,387 2284,386 2310,386 2336,387 2363,389"
+                         HEIGHT="91"
+                         WIDTH="280"
+                         VPOS="329"
+                         HPOS="2092">
+                  <String ID="string_r1l1"
+                          HEIGHT="91"
+                          WIDTH="280"
+                          VPOS="329"
+                          HPOS="2092"
+                          CONTENT="10.5.28."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="524,491 583,489 642,489 702,489 761,489 821,488 880,488 940,488 999,488 1059,488 1118,488 1177,488 1237,489 1296,489 1356,489 1415,489 1475,489 1534,489 1594,488 1653,488 1713,488"
+                         HEIGHT="96"
+                         WIDTH="1206"
+                         VPOS="411"
+                         HPOS="515">
+                  <String ID="string_r1l2"
+                          HEIGHT="96"
+                          WIDTH="1206"
+                          VPOS="411"
+                          HPOS="515"
+                          CONTENT="Basler Personenschiffahrtsgesellschaft"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1886,486 1914,488 1943,489 1972,489 2000,489 2029,491 2058,494"
+                         HEIGHT="81"
+                         WIDTH="192"
+                         VPOS="429"
+                         HPOS="1877">
+                  <String ID="string_r1l3"
+                          HEIGHT="81"
+                          WIDTH="192"
+                          VPOS="429"
+                          HPOS="1877"
+                          CONTENT="Basel"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1074,641 1099,640 1124,639 1150,639 1175,638 1200,638 1226,638 1251,638 1277,638 1302,639 1327,640 1353,642 1378,645 1404,647"
+                         HEIGHT="77"
+                         WIDTH="348"
+                         VPOS="588"
+                         HPOS="1065">
+                  <String ID="string_r1l4"
+                          HEIGHT="77"
+                          WIDTH="348"
+                          VPOS="588"
+                          HPOS="1065"
+                          CONTENT="Abrechnung"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1913,909 1938,911 1963,912 1988,912 2013,913 2038,914 2063,914 2088,914 2113,915 2138,915 2163,915 2188,915 2213,915 2238,915 2263,914 2288,914 2313,914 2338,912 2363,912 2388,911"
+                         HEIGHT="70"
+                         WIDTH="493"
+                         VPOS="855"
+                         HPOS="1904">
+                  <String ID="string_r1l5"
+                          HEIGHT="70"
+                          WIDTH="493"
+                          VPOS="855"
+                          HPOS="1904"
+                          CONTENT="Fr. 105864.65V"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="524,914 550,915 576,915 603,915 629,915 656,914 682,914 709,914 735,914 762,912 788,912 815,911"
+                         HEIGHT="83"
+                         WIDTH="309"
+                         VPOS="863"
+                         HPOS="516">
+                  <String ID="string_r1l6"
+                          HEIGHT="83"
+                          WIDTH="309"
+                          VPOS="863"
+                          HPOS="516"
+                          CONTENT="Kaufsumme"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1952,975 1979,977 2006,980"
+                         HEIGHT="56"
+                         WIDTH="76"
+                         VPOS="936"
+                         HPOS="1942">
+                  <String ID="string_r1l7"
+                          HEIGHT="56"
+                          WIDTH="76"
+                          VPOS="936"
+                          HPOS="1942"
+                          CONTENT="&#34;"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="2108,989 2133,989 2159,990 2185,990 2211,991 2237,992 2263,992 2289,992 2315,990 2341,990 2367,989 2393,986"
+                         HEIGHT="90"
+                         WIDTH="302"
+                         VPOS="934"
+                         HPOS="2100">
+                  <String ID="string_r1l8"
+                          HEIGHT="90"
+                          WIDTH="302"
+                          VPOS="934"
+                          HPOS="2100"
+                          CONTENT="63820.—"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="591,993 635,992 679,992 724,992 768,990 812,990 857,990 901,990 945,991 990,992 1034,992 1078,992 1123,992 1167,992 1211,992 1256,992 1300,992 1344,992 1389,992 1433,990 1478,990"
+                         HEIGHT="88"
+                         WIDTH="904"
+                         VPOS="932"
+                         HPOS="582">
+                  <String ID="string_r1l9"
+                          HEIGHT="88"
+                          WIDTH="904"
+                          VPOS="932"
+                          HPOS="582"
+                          CONTENT="abz. Ablösung der Hypotheken"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1910,1061 1935,1063 1961,1064 1987,1065 2012,1065 2038,1067 2064,1067 2090,1067 2115,1067 2141,1065 2167,1065 2193,1065 2218,1064 2244,1064 2270,1064 2296,1064 2321,1064 2347,1064 2373,1065 2399,1065"
+                         HEIGHT="82"
+                         WIDTH="507"
+                         VPOS="1008"
+                         HPOS="1900">
+                  <String ID="string_r1l10"
+                          HEIGHT="82"
+                          WIDTH="507"
+                          VPOS="1008"
+                          HPOS="1900"
+                          CONTENT="Fr. 42044.65"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="1922,1157 1965,1157"
+                         HEIGHT="45"
+                         WIDTH="59"
+                         VPOS="1120"
+                         HPOS="1914">
+                  <String ID="string_r1l11"
+                          HEIGHT="45"
+                          WIDTH="59"
+                          VPOS="1120"
+                          HPOS="1914"
+                          CONTENT="&#34;"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="551,1167 612,1167 674,1167 736,1167 798,1167 860,1167 922,1167 983,1167 1045,1167 1107,1167 1169,1167 1231,1167 1293,1167 1355,1167 1416,1167 1478,1167 1540,1168 1602,1169 1664,1169 1726,1170 1788,1172"
+                         HEIGHT="89"
+                         WIDTH="1254"
+                         VPOS="1101"
+                         HPOS="543">
+                  <String ID="string_r1l12"
+                          HEIGHT="89"
+                          WIDTH="1254"
+                          VPOS="1101"
+                          HPOS="543"
+                          CONTENT="5% Zins vom 5.4.28 - 12.5.281= 367Tage ="/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="2202,1166 2227,1168 2252,1169 2278,1169 2303,1169 2328,1169 2354,1169 2379,1169 2405,1170"
+                         HEIGHT="85"
+                         WIDTH="222"
+                         VPOS="1115"
+                         HPOS="2193">
+                  <String ID="string_r1l13"
+                          HEIGHT="85"
+                          WIDTH="222"
+                          VPOS="1115"
+                          HPOS="2193"
+                          CONTENT="21020"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1920,1269 1946,1268 1972,1268 1998,1268 2024,1267 2051,1266 2077,1268 2103,1268 2129,1268 2155,1268 2182,1268 2208,1268 2234,1268 2260,1268 2286,1268 2313,1268 2339,1268 2365,1268 2391,1266 2418,1266"
+                         HEIGHT="94"
+                         WIDTH="515"
+                         VPOS="1206"
+                         HPOS="1912">
+                  <String ID="string_r1l14"
+                          HEIGHT="94"
+                          WIDTH="515"
+                          VPOS="1206"
+                          HPOS="1912"
+                          CONTENT="Fr. 42254.85 V"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="527,1370 592,1368 658,1368 724,1368 789,1367 855,1367 921,1367 986,1367 1052,1367 1118,1365 1184,1365 1249,1365 1315,1365 1381,1365 1446,1365 1512,1365 1578,1367 1643,1367 1709,1367 1775,1367 1841,1367"
+                         HEIGHT="102"
+                         WIDTH="1330"
+                         VPOS="1299"
+                         HPOS="519">
+                  <String ID="string_r1l15"
+                          HEIGHT="102"
+                          WIDTH="1330"
+                          VPOS="1299"
+                          HPOS="519"
+                          CONTENT="zuzügl. Rückvergütung an Polizen - Prämien:"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="555,1470 625,1470 695,1469 765,1469 835,1467 905,1467 975,1467 1045,1467 1115,1467 1185,1469 1255,1469 1325,1469 1395,1469 1465,1469 1535,1469 1605,1469 1675,1467 1745,1467 1815,1466 1885,1464 1956,1463"
+                         HEIGHT="115"
+                         WIDTH="1418"
+                         VPOS="1407"
+                         HPOS="546">
+                  <String ID="string_r1l16"
+                          HEIGHT="115"
+                          WIDTH="1418"
+                          VPOS="1407"
+                          HPOS="546"
+                          CONTENT="Haftpflichtpolize Jahresprämie Fr. 901.80"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="2187,1566 2213,1568 2240,1569 2267,1569 2294,1569 2321,1568 2348,1568 2375,1566 2402,1566 2429,1565"
+                         HEIGHT="96"
+                         WIDTH="260"
+                         VPOS="1501"
+                         HPOS="2178">
+                  <String ID="string_r1l17"
+                          HEIGHT="96"
+                          WIDTH="260"
+                          VPOS="1501"
+                          HPOS="2178"
+                          CONTENT="24.70"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="707,1568 756,1568 805,1568 854,1568 903,1568 952,1568 1001,1568 1050,1568 1099,1568 1148,1568 1198,1568 1247,1568 1296,1568 1345,1568 1394,1568 1443,1568 1492,1568 1541,1568 1590,1568 1639,1568 1689,1568"
+                         HEIGHT="88"
+                         WIDTH="1001"
+                         VPOS="1509"
+                         HPOS="697">
+                  <String ID="string_r1l18"
+                          HEIGHT="88"
+                          WIDTH="1001"
+                          VPOS="1509"
+                          HPOS="697"
+                          CONTENT="vom 5.4. - 14.4.V= l0x 2.47y ="/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="624,1673 673,1671 722,1670 771,1669 820,1668 870,1668 919,1668 968,1668 1017,1668 1066,1668 1116,1668 1165,1670 1214,1670 1263,1670 1312,1670 1362,1670 1411,1669 1460,1668 1509,1667 1558,1667 1608,1664"
+                         HEIGHT="125"
+                         WIDTH="1001"
+                         VPOS="1593"
+                         HPOS="615">
+                  <String ID="string_r1l19"
+                          HEIGHT="125"
+                          WIDTH="1001"
+                          VPOS="1593"
+                          HPOS="615"
+                          CONTENT="Dto mit Jahresprämie Fr.275.55"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="2189,1767 2216,1768 2243,1769 2270,1769 2297,1769 2324,1769 2351,1769 2378,1768 2405,1767 2432,1764"
+                         HEIGHT="101"
+                         WIDTH="262"
+                         VPOS="1705"
+                         HPOS="2179">
+                  <String ID="string_r1l20"
+                          HEIGHT="101"
+                          WIDTH="262"
+                          VPOS="1705"
+                          HPOS="2179"
+                          CONTENT="61.15 V"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="717,1769 769,1769 822,1769 874,1769 927,1769 979,1769 1032,1769 1085,1769 1137,1769 1190,1769 1242,1770 1295,1770 1347,1770 1400,1770 1453,1770 1505,1770 1558,1770 1610,1770 1663,1770 1716,1770"
+                         HEIGHT="90"
+                         WIDTH="1016"
+                         VPOS="1709"
+                         HPOS="709">
+                  <String ID="string_r1l21"
+                          HEIGHT="90"
+                          WIDTH="1016"
+                          VPOS="1709"
+                          HPOS="709"
+                          CONTENT="vom 5.4.- 24.6. = 81yX o.75 1/2y"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="560,1868 623,1868 687,1868 751,1868 815,1868 879,1868 942,1868 1006,1868 1070,1868 1134,1868 1198,1869 1261,1869 1325,1869 1389,1869 1453,1868 1517,1868 1580,1868 1644,1868 1708,1868 1772,1866 1836,1866"
+                         HEIGHT="83"
+                         WIDTH="1294"
+                         VPOS="1808"
+                         HPOS="551">
+                  <String ID="string_r1l22"
+                          HEIGHT="83"
+                          WIDTH="1294"
+                          VPOS="1808"
+                          HPOS="551"
+                          CONTENT="Gascopolize mit Jahresprämie Fr. 2445.-Y"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="2199,1965 2225,1967 2252,1968 2279,1968 2305,1970 2332,1971 2359,1971 2385,1970 2412,1968 2439,1964"
+                         HEIGHT="79"
+                         WIDTH="258"
+                         VPOS="1908"
+                         HPOS="2190">
+                  <String ID="string_r1l23"
+                          HEIGHT="79"
+                          WIDTH="258"
+                          VPOS="1908"
+                          HPOS="2190"
+                          CONTENT="73.70"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="713,1970 769,1970 825,1970 881,1970 938,1970 994,1970 1050,1970 1107,1970 1163,1971 1219,1971 1276,1971 1332,1970 1388,1970 1444,1970 1501,1970 1557,1970 1613,1970 1670,1970 1726,1968 1782,1968 1839,1968"
+                         HEIGHT="119"
+                         WIDTH="1145"
+                         VPOS="1884"
+                         HPOS="703">
+                  <String ID="string_r1l24"
+                          HEIGHT="119"
+                          WIDTH="1145"
+                          VPOS="1884"
+                          HPOS="703"
+                          CONTENT="vom 5.4. - 15.4. = 11'x 6.70V - 1650"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1904,2117 1936,2118 1969,2118 2001,2119 2034,2120 2067,2120 2099,2121 2132,2121 2164,2121 2197,2121 2230,2123 2262,2123 2295,2123 2327,2123 2360,2123 2393,2124 2425,2124 2458,2124 2490,2124 2523,2126 2556,2126"
+                         HEIGHT="182"
+                         WIDTH="671"
+                         VPOS="1987"
+                         HPOS="1895">
+                  <String ID="string_r1l25"
+                          HEIGHT="182"
+                          WIDTH="671"
+                          VPOS="1987"
+                          HPOS="1895"
+                          CONTENT="Fr. 42.414.40"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="611,2118 646,2120 681,2121 717,2121 752,2121 788,2123 823,2123 859,2123 894,2123 930,2121 965,2121 1000,2121 1036,2121 1071,2120 1107,2120 1142,2120 1178,2120 1213,2120 1249,2121 1284,2121 1320,2123"
+                         HEIGHT="85"
+                         WIDTH="725"
+                         VPOS="2062"
+                         HPOS="603">
+                  <String ID="string_r1l26"
+                          HEIGHT="85"
+                          WIDTH="725"
+                          VPOS="2062"
+                          HPOS="603"
+                          CONTENT="Total zu Jhren Gunsten"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="1679,2393 1705,2394 1731,2396 1757,2396 1783,2397 1809,2396 1835,2396 1861,2395 1887,2393 1913,2392 1939,2390 1965,2388 1991,2385 2018,2381"
+                         HEIGHT="123"
+                         WIDTH="360"
+                         VPOS="2296"
+                         HPOS="1668">
+                  <String ID="string_r1l27"
+                          HEIGHT="123"
+                          WIDTH="360"
+                          VPOS="2296"
+                          HPOS="1668"
+                          CONTENT="oUrnasol. 78."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="1658,2469 1684,2473 1710,2474 1736,2475 1762,2474 1789,2474 1815,2472 1841,2469 1867,2468 1893,2466 1920,2465 1946,2465 1972,2465 1998,2466 2025,2469"
+                         HEIGHT="91"
+                         WIDTH="386"
+                         VPOS="2408"
+                         HPOS="1648">
+                  <String ID="string_r1l28"
+                          HEIGHT="91"
+                          WIDTH="386"
+                          VPOS="2408"
+                          HPOS="1648"
+                          CONTENT="0.Ot. 223"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1655,2553 1688,2552 1722,2551 1755,2550 1789,2549 1823,2549 1856,2549 1890,2549 1924,2549 1957,2549 1991,2549 2024,2549 2058,2550 2092,2550 2125,2550 2159,2552 2193,2552 2226,2553 2260,2553 2294,2553"
+                         HEIGHT="137"
+                         WIDTH="657"
+                         VPOS="2479"
+                         HPOS="1646">
+                  <String ID="string_r1l29"
+                          HEIGHT="137"
+                          WIDTH="657"
+                          VPOS="2479"
+                          HPOS="1646"
+                          CONTENT="320"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

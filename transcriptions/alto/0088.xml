@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:35.71+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3608" WIDTH="2922">
+         <TopMargin HEIGHT="0" WIDTH="2922" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3608" WIDTH="0" VPOS="0" HPOS="2922"/>
+         <BottomMargin HEIGHT="0" WIDTH="2922" VPOS="3608" HPOS="0"/>
+         <PrintSpace HEIGHT="3608" WIDTH="2922" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="526" WIDTH="1848" VPOS="445" HPOS="740">
+               <Shape>
+                  <Polygon POINTS="740,445 740,971 2588,971 2588,445"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1482,494 1509,499 1536,500"
+                         HEIGHT="111"
+                         WIDTH="88"
+                         VPOS="410"
+                         HPOS="1467">
+                  <String ID="string_r1l1"
+                          HEIGHT="111"
+                          WIDTH="88"
+                          VPOS="410"
+                          HPOS="1467"
+                          CONTENT="-2."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="743,659 835,657 927,656 1019,656 1112,654 1204,653 1296,653 1388,651 1481,650 1573,650 1665,648 1757,648 1850,647 1942,646 2034,645 2126,644 2219,644 2311,642 2403,642 2495,641 2588,641"
+                         HEIGHT="130"
+                         WIDTH="1869"
+                         VPOS="562"
+                         HPOS="731">
+                  <String ID="string_r1l2"
+                          HEIGHT="130"
+                          WIDTH="1869"
+                          VPOS="562"
+                          HPOS="731"
+                          CONTENT="eine Abschrift meines heutigen Schreibens an Herrn Dr. Speich"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="740,759 767,758 794,759 821,762 848,764 876,767"
+                         HEIGHT="100"
+                         WIDTH="163"
+                         VPOS="686"
+                         HPOS="726">
+                  <String ID="string_r1l3"
+                          HEIGHT="100"
+                          WIDTH="163"
+                          VPOS="686"
+                          HPOS="726"
+                          CONTENT="bei."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1169,851 1231,851 1294,852 1356,852 1419,852 1482,851 1544,851 1607,849 1669,849 1732,848 1795,846 1857,845 1920,845 1982,843 2045,843 2108,842 2170,842 2233,842 2295,842 2358,842 2421,842"
+                         HEIGHT="128"
+                         WIDTH="1275"
+                         VPOS="746"
+                         HPOS="1157">
+                  <String ID="string_r1l4"
+                          HEIGHT="128"
+                          WIDTH="1275"
+                          VPOS="746"
+                          HPOS="1157"
+                          CONTENT="Mit dem Ausdruck vorzüglicher Hochachtung"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1790,947 1815,946 1840,945 1865,945 1890,945 1915,945 1940,945 1965,945 1991,945 2016,945 2041,945 2066,945 2091,945 2116,945 2141,945 2166,944 2192,944"
+                         HEIGHT="120"
+                         WIDTH="427"
+                         VPOS="882"
+                         HPOS="1777">
+                  <String ID="string_r1l5"
+                          HEIGHT="120"
+                          WIDTH="427"
+                          VPOS="882"
+                          HPOS="1777"
+                          CONTENT="Ihr ergebener"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

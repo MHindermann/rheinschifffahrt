@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:24.207+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3606" WIDTH="2925">
+         <TopMargin HEIGHT="0" WIDTH="2925" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3606" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3606" WIDTH="0" VPOS="0" HPOS="2925"/>
+         <BottomMargin HEIGHT="0" WIDTH="2925" VPOS="3606" HPOS="0"/>
+         <PrintSpace HEIGHT="3606" WIDTH="2925" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3096" WIDTH="1974" VPOS="292" HPOS="758">
+               <Shape>
+                  <Polygon POINTS="758,292 758,3388 2732,3388 2732,292"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1533,339 1564,338 1595,340 1626,336"
+                         HEIGHT="103"
+                         WIDTH="118"
+                         VPOS="264"
+                         HPOS="1519">
+                  <String ID="string_r1l1"
+                          HEIGHT="103"
+                          WIDTH="118"
+                          VPOS="264"
+                          HPOS="1519"
+                          CONTENT="6 -"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="758,452 848,452 938,450 1029,450 1119,449 1210,447 1300,446 1391,444 1481,443 1572,441 1662,441 1752,439 1843,438 1933,437 2024,435 2114,435 2205,434 2295,434 2386,434 2476,434 2567,435"
+                         HEIGHT="111"
+                         WIDTH="1834"
+                         VPOS="356"
+                         HPOS="746">
+                  <String ID="string_r1l2"
+                          HEIGHT="111"
+                          WIDTH="1834"
+                          VPOS="356"
+                          HPOS="746"
+                          CONTENT="An den Vorstand der Basler Personenschiffahrts-Gesellschaft,"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="2321,483 2346,485 2371,485 2396,485 2421,485 2447,485 2472,483 2497,483 2522,483 2547,485 2573,486"
+                         HEIGHT="98"
+                         WIDTH="276"
+                         VPOS="436"
+                         HPOS="2309">
+                  <String ID="string_r1l3"
+                          HEIGHT="98"
+                          WIDTH="276"
+                          VPOS="436"
+                          HPOS="2309"
+                          CONTENT="18.2.28."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1469,495 1495,493 1521,492 1547,492 1574,491 1600,492 1626,492 1652,492 1679,492 1705,492 1731,492 1758,492"
+                         HEIGHT="103"
+                         WIDTH="312"
+                         VPOS="447"
+                         HPOS="1457">
+                  <String ID="string_r1l4"
+                          HEIGHT="103"
+                          WIDTH="312"
+                          VPOS="447"
+                          HPOS="1457"
+                          CONTENT="Basel."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="765,600 850,599 936,599 1022,597 1108,597 1194,596 1280,595 1366,594 1452,593 1538,592 1624,591 1709,590 1795,588 1881,588 1967,587 2053,585 2139,584 2225,584 2311,582 2397,581 2483,581"
+                         HEIGHT="106"
+                         WIDTH="1743"
+                         VPOS="512"
+                         HPOS="753">
+                  <String ID="string_r1l5"
+                          HEIGHT="106"
+                          WIDTH="1743"
+                          VPOS="512"
+                          HPOS="753"
+                          CONTENT="die &#34;Rheinfelden&#34;, weil in der ganzen Schiffbau-Industrie"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="776,695 869,694 963,693 1056,692 1150,692 1244,690 1337,689 1431,689 1525,687 1618,687 1712,686 1805,686 1899,684 1993,683 2086,683 2180,681 2274,680 2367,678 2461,678 2555,677"
+                         HEIGHT="107"
+                         WIDTH="1805"
+                         VPOS="631"
+                         HPOS="762">
+                  <String ID="string_r1l6"
+                          HEIGHT="107"
+                          WIDTH="1805"
+                          VPOS="631"
+                          HPOS="762"
+                          CONTENT="des Rheingebietes die Preise seit einigen Jahren sehr stark"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="771,789 857,788 943,788 1029,786 1115,786 1201,785 1287,783 1373,783 1459,782 1545,782 1631,780 1717,780 1803,779 1889,777 1975,777 2061,776 2147,776 2233,774 2319,774 2405,773 2492,773"
+                         HEIGHT="134"
+                         WIDTH="1746"
+                         VPOS="707"
+                         HPOS="758">
+                  <String ID="string_r1l7"
+                          HEIGHT="134"
+                          WIDTH="1746"
+                          VPOS="707"
+                          HPOS="758"
+                          CONTENT="gefallen sind. Bei einem neuen Boot können dann auch Ver-"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="771,885 865,884 960,884 1054,882 1149,882 1244,881 1338,881 1433,879 1527,878 1622,878 1717,876 1811,876 1906,875 2000,873 2095,873 2190,872 2284,872 2379,872 2473,870 2568,870 2663,870"
+                         HEIGHT="87"
+                         WIDTH="1916"
+                         VPOS="820"
+                         HPOS="758">
+                  <String ID="string_r1l8"
+                          HEIGHT="87"
+                          WIDTH="1916"
+                          VPOS="820"
+                          HPOS="758"
+                          CONTENT="besserungen berücksichtigt werden, welche die Unterhaltskosten"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="777,986 809,986 841,986 873,986 905,986 937,984 969,984 1001,984 1033,983 1065,983 1097,982 1129,981 1161,981 1193,981 1225,980 1257,980 1289,980 1321,980 1353,981 1385,981 1418,983"
+                         HEIGHT="66"
+                         WIDTH="666"
+                         VPOS="933"
+                         HPOS="763">
+                  <String ID="string_r1l9"
+                          HEIGHT="66"
+                          WIDTH="666"
+                          VPOS="933"
+                          HPOS="763"
+                          CONTENT="wesentlich vermindern."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1388,1077 1445,1077 1502,1077 1559,1076 1617,1076 1674,1076 1731,1074 1789,1074 1846,1074 1903,1074 1961,1073 2018,1073 2075,1073 2132,1071 2190,1071 2247,1071 2304,1071 2362,1070 2419,1070 2476,1070 2534,1070"
+                         HEIGHT="116"
+                         WIDTH="1170"
+                         VPOS="1000"
+                         HPOS="1375">
+                  <String ID="string_r1l10"
+                          HEIGHT="116"
+                          WIDTH="1170"
+                          VPOS="1000"
+                          HPOS="1375"
+                          CONTENT="Aus all diesen Gründen konnten wir uns"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="783,1182 869,1181 956,1181 1043,1181 1129,1179 1216,1179 1303,1178 1389,1178 1476,1176 1563,1176 1650,1175 1736,1175 1823,1173 1910,1173 1996,1172 2083,1172 2170,1170 2256,1170 2343,1170 2430,1169 2517,1169"
+                         HEIGHT="112"
+                         WIDTH="1760"
+                         VPOS="1098"
+                         HPOS="770">
+                  <String ID="string_r1l11"
+                          HEIGHT="112"
+                          WIDTH="1760"
+                          VPOS="1098"
+                          HPOS="770"
+                          CONTENT="nicht entschliessen, einen Kaufspreis anzubieten, der die"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="774,1284 864,1284 955,1283 1046,1283 1137,1282 1227,1281 1318,1280 1409,1280 1500,1278 1590,1278 1681,1277 1772,1277 1863,1275 1953,1275 2044,1274 2135,1274 2226,1274 2316,1272 2407,1272 2498,1271 2589,1271"
+                         HEIGHT="132"
+                         WIDTH="1841"
+                         VPOS="1208"
+                         HPOS="760">
+                  <String ID="string_r1l12"
+                          HEIGHT="132"
+                          WIDTH="1841"
+                          VPOS="1208"
+                          HPOS="760"
+                          CONTENT="Erstellungskosten, abzüglich normale Abschreibung zur Grund-"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="785,1388 874,1388 963,1386 1052,1386 1141,1385 1230,1383 1319,1383 1408,1382 1497,1380 1586,1380 1676,1379 1765,1379 1854,1377 1943,1377 2032,1376 2121,1376 2210,1374 2299,1374 2388,1374 2477,1373 2567,1373"
+                         HEIGHT="100"
+                         WIDTH="1806"
+                         VPOS="1307"
+                         HPOS="773">
+                  <String ID="string_r1l13"
+                          HEIGHT="100"
+                          WIDTH="1806"
+                          VPOS="1307"
+                          HPOS="773"
+                          CONTENT="lage gehabt hätte. Von einer Kaufsofferte auf Grundlage des"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="777,1485 867,1484 957,1484 1047,1483 1138,1482 1228,1481 1318,1481 1408,1479 1499,1478 1589,1478 1679,1476 1769,1476 1860,1475 1950,1475 2040,1473 2130,1473 2221,1473 2311,1473 2401,1473 2491,1473 2582,1473"
+                         HEIGHT="104"
+                         WIDTH="1831"
+                         VPOS="1409"
+                         HPOS="764">
+                  <String ID="string_r1l14"
+                          HEIGHT="104"
+                          WIDTH="1831"
+                          VPOS="1409"
+                          HPOS="764"
+                          CONTENT="tatsächlichen Verkehrswertes des Bootes haben wir abgesehen,"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="777,1587 866,1586 956,1586 1046,1584 1136,1583 1226,1583 1315,1581 1405,1580 1495,1580 1585,1578 1675,1578 1764,1577 1854,1577 1944,1575 2034,1575 2124,1575 2213,1574 2303,1574 2393,1574 2483,1574 2573,1572"
+                         HEIGHT="105"
+                         WIDTH="1821"
+                         VPOS="1517"
+                         HPOS="763">
+                  <String ID="string_r1l15"
+                          HEIGHT="105"
+                          WIDTH="1821"
+                          VPOS="1517"
+                          HPOS="763"
+                          CONTENT="da Sie wohl kaum auf die Offerte eingetreten wären. Sollten"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="776,1686 873,1686 970,1685 1068,1685 1165,1683 1263,1683 1360,1682 1457,1681 1555,1680 1652,1679 1750,1677 1847,1677 1944,1676 2042,1676 2139,1674 2237,1674 2334,1674 2431,1674 2529,1674 2626,1674 2724,1674"
+                         HEIGHT="91"
+                         WIDTH="1972"
+                         VPOS="1622"
+                         HPOS="763">
+                  <String ID="string_r1l16"
+                          HEIGHT="91"
+                          WIDTH="1972"
+                          VPOS="1622"
+                          HPOS="763"
+                          CONTENT="Sie aber grundsätzlich einen Verkauf des Bootes einer Vermietung"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="783,1785 880,1785 977,1785 1075,1784 1172,1784 1270,1782 1367,1782 1465,1781 1562,1781 1660,1779 1757,1779 1854,1778 1952,1778 2049,1777 2147,1776 2244,1776 2342,1776 2439,1776 2537,1776 2634,1776 2732,1778"
+                         HEIGHT="95"
+                         WIDTH="1975"
+                         VPOS="1718"
+                         HPOS="770">
+                  <String ID="string_r1l17"
+                          HEIGHT="95"
+                          WIDTH="1975"
+                          VPOS="1718"
+                          HPOS="770"
+                          CONTENT="vorziehen, so sind wir gerne bereit, auch hierüber zu verhandeln,"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="779,1886 873,1885 967,1884 1061,1883 1155,1883 1249,1881 1343,1881 1437,1880 1531,1880 1625,1879 1719,1878 1813,1878 1907,1877 2001,1877 2095,1877 2189,1875 2283,1875 2377,1875 2471,1875 2565,1875 2660,1875"
+                         HEIGHT="112"
+                         WIDTH="1906"
+                         VPOS="1807"
+                         HPOS="767">
+                  <String ID="string_r1l18"
+                          HEIGHT="112"
+                          WIDTH="1906"
+                          VPOS="1807"
+                          HPOS="767"
+                          CONTENT="nur möchten wir Sie dann bitten, Ihrerseits einen Vorschlag zu"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="777,1985 802,1986 827,1986 853,1985 878,1985 903,1985 929,1983 954,1985 980,1986"
+                         HEIGHT="86"
+                         WIDTH="227"
+                         VPOS="1932"
+                         HPOS="766">
+                  <String ID="string_r1l19"
+                          HEIGHT="86"
+                          WIDTH="227"
+                          VPOS="1932"
+                          HPOS="766"
+                          CONTENT="machen."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="1367,2081 1429,2081 1491,2081 1553,2081 1616,2081 1678,2081 1740,2081 1802,2079 1865,2079 1927,2079 1989,2078 2051,2078 2114,2076 2176,2076 2238,2076 2300,2076 2363,2076 2425,2076 2487,2076 2549,2076 2612,2078"
+                         HEIGHT="95"
+                         WIDTH="1270"
+                         VPOS="2014"
+                         HPOS="1354">
+                  <String ID="string_r1l20"
+                          HEIGHT="95"
+                          WIDTH="1270"
+                          VPOS="2014"
+                          HPOS="1354"
+                          CONTENT="Ihre Delegierten haben in der Besprechung"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="783,2178 876,2178 970,2178 1063,2178 1157,2178 1250,2177 1344,2177 1437,2175 1531,2175 1624,2175 1718,2174 1812,2174 1905,2172 1999,2172 2092,2172 2186,2172 2279,2171 2373,2171 2466,2171 2560,2171 2654,2172"
+                         HEIGHT="79"
+                         WIDTH="1896"
+                         VPOS="2122"
+                         HPOS="771">
+                  <String ID="string_r1l21"
+                          HEIGHT="79"
+                          WIDTH="1896"
+                          VPOS="2122"
+                          HPOS="771"
+                          CONTENT="den Wunsch ausgesprochen, die ganze Angelegenheit möchte rasch"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="795,2280 881,2280 968,2279 1054,2279 1141,2277 1228,2277 1314,2276 1401,2276 1488,2276 1574,2274 1661,2274 1748,2274 1834,2273 1921,2273 2008,2273 2094,2273 2181,2271 2268,2271 2354,2271 2441,2271 2528,2270"
+                         HEIGHT="87"
+                         WIDTH="1758"
+                         VPOS="2210"
+                         HPOS="783">
+                  <String ID="string_r1l22"
+                          HEIGHT="87"
+                          WIDTH="1758"
+                          VPOS="2210"
+                          HPOS="783"
+                          CONTENT="bearbeitet werden. Dementsprechend können wir Ihnen heute"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="786,2376 875,2376 965,2375 1055,2375 1144,2373 1234,2373 1324,2372 1413,2372 1503,2370 1593,2370 1683,2370 1772,2369 1862,2369 1952,2368 2041,2367 2131,2367 2221,2367 2310,2367 2400,2367 2490,2367 2580,2367"
+                         HEIGHT="83"
+                         WIDTH="1819"
+                         VPOS="2316"
+                         HPOS="774">
+                  <String ID="string_r1l23"
+                          HEIGHT="83"
+                          WIDTH="1819"
+                          VPOS="2316"
+                          HPOS="774"
+                          CONTENT="schon, und nicht erst, wie wir zugesagt haben, für nächsten"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="783,2471 873,2471 964,2469 1055,2469 1146,2468 1237,2468 1328,2467 1419,2466 1510,2466 1601,2465 1692,2465 1782,2465 1873,2463 1964,2463 2055,2463 2146,2463 2237,2462 2328,2462 2419,2462 2510,2463 2601,2463"
+                         HEIGHT="89"
+                         WIDTH="1843"
+                         VPOS="2404"
+                         HPOS="770">
+                  <String ID="string_r1l24"
+                          HEIGHT="89"
+                          WIDTH="1843"
+                          VPOS="2404"
+                          HPOS="770"
+                          CONTENT="Mittwoch unsere endgültigen Vorschläge unterbreiten. Da Herr"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="791,2568 884,2568 977,2567 1070,2567 1163,2567 1256,2565 1349,2565 1443,2565 1536,2564 1629,2564 1722,2562 1815,2562 1908,2561 2001,2561 2095,2559 2188,2559 2281,2559 2374,2559 2467,2559 2560,2559 2654,2559"
+                         HEIGHT="86"
+                         WIDTH="1889"
+                         VPOS="2519"
+                         HPOS="778">
+                  <String ID="string_r1l25"
+                          HEIGHT="86"
+                          WIDTH="1889"
+                          VPOS="2519"
+                          HPOS="778"
+                          CONTENT="Ritter beabsichtigt, seinen Urlaubanzutreten, wären wir Ihnen"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="795,2670 887,2670 980,2669 1072,2669 1165,2667 1258,2667 1350,2667 1443,2666 1536,2666 1628,2666 1721,2664 1814,2664 1906,2664 1999,2664 2092,2663 2184,2663 2277,2663 2370,2663 2462,2663 2555,2663 2648,2663"
+                         HEIGHT="121"
+                         WIDTH="1877"
+                         VPOS="2598"
+                         HPOS="784">
+                  <String ID="string_r1l26"
+                          HEIGHT="121"
+                          WIDTH="1877"
+                          VPOS="2598"
+                          HPOS="784"
+                          CONTENT="dankbar, wenn Sie Ihre Dispositionen so treffen könnten, dass"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="795,2775 888,2774 981,2774 1074,2774 1167,2772 1260,2772 1353,2772 1446,2771 1539,2771 1632,2771 1725,2771 1818,2769 1911,2769 2004,2769 2097,2769 2190,2769 2283,2769 2376,2769 2469,2769 2562,2769 2655,2769"
+                         HEIGHT="95"
+                         WIDTH="1884"
+                         VPOS="2702"
+                         HPOS="782">
+                  <String ID="string_r1l27"
+                          HEIGHT="95"
+                          WIDTH="1884"
+                          VPOS="2702"
+                          HPOS="782"
+                          CONTENT="die Verhandlungen noch im Verlauf der nächsten Woche zu einem"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="797,2877 864,2877 931,2877 999,2876 1066,2876 1134,2876 1201,2875 1268,2874 1336,2874 1403,2873 1471,2873 1538,2872 1605,2871 1673,2871 1740,2871 1808,2871 1875,2871 1942,2871 2010,2871 2077,2871 2145,2873"
+                         HEIGHT="84"
+                         WIDTH="1372"
+                         VPOS="2808"
+                         HPOS="786">
+                  <String ID="string_r1l28"
+                          HEIGHT="84"
+                          WIDTH="1372"
+                          VPOS="2808"
+                          HPOS="786"
+                          CONTENT="endgültigen Abschluss gebracht werden können."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1394,2967 1459,2967 1524,2966 1590,2966 1655,2966 1721,2966 1786,2966 1852,2964 1917,2964 1983,2964 2048,2963 2113,2963 2179,2963 2244,2963 2310,2963 2375,2963 2441,2964 2506,2964 2572,2966 2637,2967 2703,2969"
+                         HEIGHT="78"
+                         WIDTH="1333"
+                         VPOS="2906"
+                         HPOS="1383">
+                  <String ID="string_r1l29"
+                          HEIGHT="78"
+                          WIDTH="1333"
+                          VPOS="2906"
+                          HPOS="1383"
+                          CONTENT="Ihren gefl. Nachrichten sehen wir entgegen."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="1935,3063 1960,3063 1986,3063 2011,3063 2037,3063 2062,3063 2088,3063 2113,3063 2139,3063 2164,3063 2190,3063 2215,3063 2241,3062 2267,3062"
+                         HEIGHT="86"
+                         WIDTH="356"
+                         VPOS="2999"
+                         HPOS="1924">
+                  <String ID="string_r1l30"
+                          HEIGHT="86"
+                          WIDTH="356"
+                          VPOS="2999"
+                          HPOS="1924"
+                          CONTENT="Hochachtend"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="2067,3113 2095,3114 2124,3113 2153,3113 2182,3114 2211,3115 2240,3117"
+                         HEIGHT="56"
+                         WIDTH="198"
+                         VPOS="3071"
+                         HPOS="2055">
+                  <String ID="string_r1l31"
+                          HEIGHT="56"
+                          WIDTH="198"
+                          VPOS="3071"
+                          HPOS="2055"
+                          CONTENT="BASLE"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="1761,3161 1804,3164 1847,3167 1890,3168 1933,3168 1976,3170 2019,3170 2062,3170 2105,3170 2148,3169 2191,3168 2234,3167 2277,3167 2320,3165 2363,3165 2406,3164 2449,3164 2492,3164 2535,3164 2578,3165 2622,3167"
+                         HEIGHT="124"
+                         WIDTH="885"
+                         VPOS="3100"
+                         HPOS="1750">
+                  <String ID="string_r1l32"
+                          HEIGHT="124"
+                          WIDTH="885"
+                          VPOS="3100"
+                          HPOS="1750"
+                          CONTENT="CHIFFAERTUXTINI GESELLSCHAFT"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="2108,3273 2133,3272 2158,3272 2184,3273 2209,3276 2235,3280 2260,3284 2285,3288 2311,3295 2336,3297 2362,3302 2387,3307 2412,3308 2438,3310 2463,3310 2489,3308"
+                         HEIGHT="149"
+                         WIDTH="415"
+                         VPOS="3177"
+                         HPOS="2094">
+                  <String ID="string_r1l33"
+                          HEIGHT="149"
+                          WIDTH="415"
+                          VPOS="3177"
+                          HPOS="2094"
+                          CONTENT="We"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="1799,3366 1818,3363"
+                         HEIGHT="87"
+                         WIDTH="54"
+                         VPOS="3306"
+                         HPOS="1779">
+                  <String ID="string_r1l34"
+                          HEIGHT="87"
+                          WIDTH="54"
+                          VPOS="3306"
+                          HPOS="1779"
+                          CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

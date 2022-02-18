@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:20.523+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3609" WIDTH="2925">
+         <TopMargin HEIGHT="0" WIDTH="2925" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3609" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3609" WIDTH="0" VPOS="0" HPOS="2925"/>
+         <BottomMargin HEIGHT="0" WIDTH="2925" VPOS="3609" HPOS="0"/>
+         <PrintSpace HEIGHT="3609" WIDTH="2925" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="486" WIDTH="585" VPOS="248" HPOS="183">
+               <Shape>
+                  <Polygon POINTS="183,248 183,734 768,734 768,248"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="183,285 208,277 234,276 260,281 286,287 312,291 338,290"
+                         HEIGHT="180"
+                         WIDTH="196"
+                         VPOS="137"
+                         HPOS="168">
+                  <String ID="string_r1l1"
+                          HEIGHT="180"
+                          WIDTH="196"
+                          VPOS="137"
+                          HPOS="168"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="320,354 345,356 371,356 397,356 423,356 449,356 475,356 501,356 527,356 553,356 579,354 605,354 631,354 657,354 683,353 709,353 735,353 761,353"
+                         HEIGHT="83"
+                         WIDTH="465"
+                         VPOS="290"
+                         HPOS="308">
+                  <String ID="string_r1l2"
+                          HEIGHT="83"
+                          WIDTH="465"
+                          VPOS="290"
+                          HPOS="308"
+                          CONTENT="DR FRITZ STEIGER"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="329,417 354,417 380,417 405,417 431,417 456,417 482,417 508,417 533,417 559,417 584,417 610,417 636,417 661,417 687,417 712,417 738,417 764,416"
+                         HEIGHT="75"
+                         WIDTH="459"
+                         VPOS="365"
+                         HPOS="318">
+                  <String ID="string_r1l3"
+                          HEIGHT="75"
+                          WIDTH="459"
+                          VPOS="365"
+                          HPOS="318"
+                          CONTENT="DR MAX VISCHER"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="314,470 339,468 364,468 389,467 414,467 440,467 465,465 490,465 515,465 541,465 566,464 591,464 616,464 641,464 667,464 692,464 717,464 742,465 768,465"
+                         HEIGHT="65"
+                         WIDTH="478"
+                         VPOS="427"
+                         HPOS="301">
+                  <String ID="string_r1l4"
+                          HEIGHT="65"
+                          WIDTH="478"
+                          VPOS="427"
+                          HPOS="301"
+                          CONTENT="ADVOKATEN UND NOTARE"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="467,525 493,524 519,524 545,523 571,524 597,525 624,527"
+                         HEIGHT="71"
+                         WIDTH="179"
+                         VPOS="474"
+                         HPOS="456">
+                  <String ID="string_r1l5"
+                          HEIGHT="71"
+                          WIDTH="179"
+                          VPOS="474"
+                          HPOS="456"
+                          CONTENT="BASEL"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="374,579 400,577 426,576 452,576 479,576 505,576 531,578 558,578 584,578 610,579 637,579 663,578 689,578 716,575"
+                         HEIGHT="119"
+                         WIDTH="366"
+                         VPOS="525"
+                         HPOS="363">
+                  <String ID="string_r1l6"
+                          HEIGHT="119"
+                          WIDTH="366"
+                          VPOS="525"
+                          HPOS="363"
+                          CONTENT="FREIESTRASSE 65"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="357,678 382,677 408,677 433,677 459,676 484,675 510,675 535,675 561,675 586,675 612,675 637,675 663,675 688,674 714,674 740,674"
+                         HEIGHT="74"
+                         WIDTH="407"
+                         VPOS="630"
+                         HPOS="345">
+                  <String ID="string_r1l7"
+                          HEIGHT="74"
+                          WIDTH="407"
+                          VPOS="630"
+                          HPOS="345"
+                          CONTENT="TELEPHON SAFRAN 4957"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="390,723 415,722 441,722 467,722 493,722 518,722 544,722 570,722 596,722 621,722 647,722 673,720 699,720"
+                         HEIGHT="77"
+                         WIDTH="332"
+                         VPOS="685"
+                         HPOS="379">
+                  <String ID="string_r1l8"
+                          HEIGHT="77"
+                          WIDTH="332"
+                          VPOS="685"
+                          HPOS="379"
+                          CONTENT="POSTCHECK V 2770"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="3037" WIDTH="1919" VPOS="246" HPOS="786">
+               <Shape>
+                  <Polygon POINTS="786,246 786,3283 2705,3283 2705,246"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="2504,302 2538,297"
+                         HEIGHT="86"
+                         WIDTH="66"
+                         VPOS="215"
+                         HPOS="2483">
+                  <String ID="string_r2l1"
+                          HEIGHT="86"
+                          WIDTH="66"
+                          VPOS="215"
+                          HPOS="2483"
+                          CONTENT="("/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1785,464 1823,465 1861,465 1899,465 1937,465 1975,465 2013,465 2051,465 2089,465 2127,465 2166,464 2204,464 2242,464 2280,464 2318,464 2356,464 2394,465 2432,465 2470,465 2508,467 2547,467"
+                         HEIGHT="167"
+                         WIDTH="786"
+                         VPOS="367"
+                         HPOS="1773">
+                  <String ID="string_r2l2"
+                          HEIGHT="167"
+                          WIDTH="786"
+                          VPOS="367"
+                          HPOS="1773"
+                          CONTENT="Basel, den 28. Juni 1925."/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1094,612 1123,612 1152,611 1181,610 1210,609 1239,611 1268,612"
+                         HEIGHT="131"
+                         WIDTH="199"
+                         VPOS="524"
+                         HPOS="1082">
+                  <String ID="string_r2l3"
+                          HEIGHT="131"
+                          WIDTH="199"
+                          VPOS="524"
+                          HPOS="1082"
+                          CONTENT="Herrn"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="1328,710 1361,710 1394,710 1428,710 1461,710 1494,710 1528,710 1561,710 1594,708 1628,708 1661,708 1694,708 1728,708 1761,708 1794,710 1828,710 1861,711 1894,711 1928,713 1961,714 1995,716"
+                         HEIGHT="138"
+                         WIDTH="691"
+                         VPOS="638"
+                         HPOS="1316">
+                  <String ID="string_r2l4"
+                          HEIGHT="138"
+                          WIDTH="691"
+                          VPOS="638"
+                          HPOS="1316"
+                          CONTENT="P. Christ-Wackernagel,"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="1185,809 1238,809 1291,810 1345,810 1398,810 1452,810 1505,810 1558,810 1612,809 1665,809 1719,809 1772,809 1825,809 1879,809 1932,810 1986,810 2039,812 2092,815 2146,817 2199,820 2253,824"
+                         HEIGHT="125"
+                         WIDTH="1092"
+                         VPOS="753"
+                         HPOS="1172">
+                  <String ID="string_r2l5"
+                          HEIGHT="125"
+                          WIDTH="1092"
+                          VPOS="753"
+                          HPOS="1172"
+                          CONTENT="vom Hause Paravicini, Christ à C0.,"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="1811,911 1837,910 1864,909 1891,909 1917,909 1944,909 1971,909 1998,909 2024,909 2051,908 2078,908 2105,905"
+                         HEIGHT="87"
+                         WIDTH="319"
+                         VPOS="847"
+                         HPOS="1798">
+                  <String ID="string_r2l6"
+                          HEIGHT="87"
+                          WIDTH="319"
+                          VPOS="847"
+                          HPOS="1798"
+                          CONTENT="Basel"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="1755,1011 1780,1010 1805,1009 1830,1008 1856,1008 1881,1008 1906,1008 1931,1008 1957,1008 1982,1008 2007,1008 2032,1008 2058,1008 2083,1008 2108,1008 2133,1008 2159,1007"
+                         HEIGHT="174"
+                         WIDTH="428"
+                         VPOS="899"
+                         HPOS="1744">
+                  <String ID="string_r2l7"
+                          HEIGHT="174"
+                          WIDTH="428"
+                          VPOS="899"
+                          HPOS="1744"
+                          CONTENT="Kaufhausgasse"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="792,1160 831,1161 870,1161 910,1161 949,1160 989,1160 1028,1160 1068,1160 1107,1158 1147,1158 1186,1157 1225,1157 1265,1157 1304,1155 1344,1155 1383,1155 1423,1156 1462,1157 1502,1158 1541,1158 1581,1160"
+                         HEIGHT="147"
+                         WIDTH="813"
+                         VPOS="1083"
+                         HPOS="779">
+                  <String ID="string_r2l8"
+                          HEIGHT="147"
+                          WIDTH="813"
+                          VPOS="1083"
+                          HPOS="779"
+                          CONTENT="Sehr geehrter Herr Christ,"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="1305,1254 1367,1254 1429,1254 1492,1254 1554,1254 1616,1254 1679,1254 1741,1254 1803,1254 1866,1254 1928,1254 1990,1254 2053,1254 2115,1254 2177,1255 2240,1256 2302,1257 2364,1257 2427,1260 2489,1262 2552,1263"
+                         HEIGHT="137"
+                         WIDTH="1272"
+                         VPOS="1179"
+                         HPOS="1293">
+                  <String ID="string_r2l9"
+                          HEIGHT="137"
+                          WIDTH="1272"
+                          VPOS="1179"
+                          HPOS="1293"
+                          CONTENT="Mit bestem Dank bestätige ich den Empfang"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="795,1358 884,1358 974,1358 1064,1358 1153,1356 1243,1356 1333,1356 1422,1355 1512,1355 1602,1355 1692,1355 1781,1355 1871,1353 1961,1353 2050,1355 2140,1355 2230,1355 2319,1355 2409,1356 2499,1358 2589,1359"
+                         HEIGHT="111"
+                         WIDTH="1819"
+                         VPOS="1277"
+                         HPOS="783">
+                  <String ID="string_r2l10"
+                          HEIGHT="111"
+                          WIDTH="1819"
+                          VPOS="1277"
+                          HPOS="783"
+                          CONTENT="Ihres Geehrten vom 25. ct. mit dem Entwurf eines Schreibens"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="801,1460 896,1458 991,1458 1086,1457 1181,1457 1277,1457 1372,1455 1467,1455 1562,1455 1657,1455 1753,1455 1848,1455 1943,1455 2038,1455 2133,1455 2229,1455 2324,1457 2419,1457 2514,1457 2609,1458 2705,1458"
+                         HEIGHT="119"
+                         WIDTH="1929"
+                         VPOS="1395"
+                         HPOS="789">
+                  <String ID="string_r2l11"
+                          HEIGHT="119"
+                          WIDTH="1929"
+                          VPOS="1395"
+                          HPOS="789"
+                          CONTENT="an die Basler Rheinschiffahrt Aktiengesellschaft. Ich überlasse"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="809,1563 896,1562 984,1562 1071,1560 1159,1560 1246,1559 1334,1559 1421,1558 1509,1557 1596,1557 1684,1557 1771,1557 1859,1557 1946,1557 2034,1557 2121,1557 2209,1557 2296,1557 2384,1557 2471,1557 2559,1556"
+                         HEIGHT="95"
+                         WIDTH="1776"
+                         VPOS="1517"
+                         HPOS="796">
+                  <String ID="string_r2l12"
+                          HEIGHT="95"
+                          WIDTH="1776"
+                          VPOS="1517"
+                          HPOS="796"
+                          CONTENT="es gerne Ihrem Ermessen, ob Sie an die Gesellschaft oder an"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="795,1659 885,1658 975,1658 1065,1658 1156,1658 1246,1658 1336,1658 1427,1658 1517,1658 1607,1658 1698,1658 1788,1658 1878,1658 1968,1658 2059,1658 2149,1658 2239,1658 2330,1656 2420,1656 2510,1655 2601,1653"
+                         HEIGHT="100"
+                         WIDTH="1828"
+                         VPOS="1586"
+                         HPOS="784">
+                  <String ID="string_r2l13"
+                          HEIGHT="100"
+                          WIDTH="1828"
+                          VPOS="1586"
+                          HPOS="784"
+                          CONTENT="die Leitung der Ausstellung schreiben wollen. Ich persönlich"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="791,1760 886,1758 981,1758 1076,1757 1172,1757 1267,1756 1362,1755 1457,1755 1553,1755 1648,1755 1743,1755 1838,1755 1934,1755 2029,1755 2124,1755 2219,1755 2315,1755 2410,1755 2505,1755 2600,1754 2696,1754"
+                         HEIGHT="120"
+                         WIDTH="1929"
+                         VPOS="1699"
+                         HPOS="780">
+                  <String ID="string_r2l14"
+                          HEIGHT="120"
+                          WIDTH="1929"
+                          VPOS="1699"
+                          HPOS="780"
+                          CONTENT="habe keine Lust, eine direkte Korrespondenz mit Herrn Groschupf"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="800,1859 890,1857 980,1856 1070,1855 1160,1854 1250,1854 1340,1854 1430,1854 1520,1854 1610,1854 1700,1854 1790,1854 1880,1854 1970,1854 2060,1854 2150,1854 2240,1853 2330,1853 2420,1853 2510,1851 2601,1850"
+                         HEIGHT="104"
+                         WIDTH="1824"
+                         VPOS="1789"
+                         HPOS="788">
+                  <String ID="string_r2l15"
+                          HEIGHT="104"
+                          WIDTH="1824"
+                          VPOS="1789"
+                          HPOS="788"
+                          CONTENT="zu führen, nachdem dieser uns in derart beleidigender Weise"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="807,1961 897,1959 987,1958 1078,1956 1168,1955 1259,1954 1349,1953 1440,1953 1530,1953 1621,1953 1711,1953 1801,1953 1892,1953 1982,1955 2073,1955 2163,1955 2254,1955 2344,1955 2435,1956 2525,1956 2616,1956"
+                         HEIGHT="121"
+                         WIDTH="1833"
+                         VPOS="1895"
+                         HPOS="795">
+                  <String ID="string_r2l16"
+                          HEIGHT="121"
+                          WIDTH="1833"
+                          VPOS="1895"
+                          HPOS="795"
+                          CONTENT="geschrieben hat. Der Vorstand der Personenschiffahrtsgesell-"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="800,2058 891,2057 983,2057 1075,2056 1167,2055 1259,2055 1351,2055 1442,2055 1534,2055 1626,2055 1718,2055 1810,2055 1902,2055 1994,2055 2085,2057 2177,2057 2269,2057 2361,2057 2453,2057 2545,2057 2637,2057"
+                         HEIGHT="115"
+                         WIDTH="1861"
+                         VPOS="1999"
+                         HPOS="788">
+                  <String ID="string_r2l17"
+                          HEIGHT="115"
+                          WIDTH="1861"
+                          VPOS="1999"
+                          HPOS="788"
+                          CONTENT="schaft hat inzwischen in seiner Sitzung vom 25.ct. einstimmig"/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="801,2157 860,2157 920,2156 980,2156 1039,2156 1099,2156 1159,2154 1218,2154 1278,2154 1338,2154 1398,2154 1457,2154 1517,2154 1577,2154 1636,2154 1696,2154 1756,2154 1815,2154 1875,2156 1935,2156 1995,2157"
+                         HEIGHT="93"
+                         WIDTH="1219"
+                         VPOS="2099"
+                         HPOS="789">
+                  <String ID="string_r2l18"
+                          HEIGHT="93"
+                          WIDTH="1219"
+                          VPOS="2099"
+                          HPOS="789"
+                          CONTENT="den von mir entworfenen Brief genehmigt."/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="1121,2256 1195,2256 1270,2255 1344,2255 1419,2253 1493,2253 1568,2253 1642,2253 1717,2253 1791,2253 1866,2253 1941,2255 2015,2255 2090,2255 2164,2255 2239,2255 2313,2255 2388,2255 2462,2255 2537,2255 2612,2253"
+                         HEIGHT="139"
+                         WIDTH="1515"
+                         VPOS="2166"
+                         HPOS="1108">
+                  <String ID="string_r2l19"
+                          HEIGHT="139"
+                          WIDTH="1515"
+                          VPOS="2166"
+                          HPOS="1108"
+                          CONTENT="Was nun Ihren Entwurf anbetrifft, so gestatte ich"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="786,2357 841,2357 897,2357 953,2355 1009,2355 1065,2355 1120,2355 1176,2354 1232,2354 1288,2354 1344,2354 1399,2352 1455,2352 1511,2352 1567,2352 1623,2352 1678,2352 1734,2354 1790,2354 1846,2354 1902,2355"
+                         HEIGHT="103"
+                         WIDTH="1140"
+                         VPOS="2294"
+                         HPOS="775">
+                  <String ID="string_r2l20"
+                          HEIGHT="103"
+                          WIDTH="1140"
+                          VPOS="2294"
+                          HPOS="775"
+                          CONTENT="mir, folgende Abänderungen anzuregen:"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="786,2456 881,2454 977,2454 1072,2453 1168,2453 1263,2451 1359,2451 1454,2451 1550,2451 1645,2451 1741,2451 1837,2451 1932,2451 2028,2453 2123,2453 2219,2453 2314,2453 2410,2453 2505,2453 2601,2452 2697,2451"
+                         HEIGHT="128"
+                         WIDTH="1936"
+                         VPOS="2386"
+                         HPOS="773">
+                  <String ID="string_r2l21"
+                          HEIGHT="128"
+                          WIDTH="1936"
+                          VPOS="2386"
+                          HPOS="773"
+                          CONTENT="ad Ziff. 4 &amp; 5. Die Konferenz an der Sie die Anregung der Ueber-"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="795,2553 886,2553 977,2552 1068,2552 1159,2552 1250,2552 1341,2552 1432,2552 1523,2552 1614,2552 1705,2552 1796,2552 1887,2552 1978,2552 2069,2552 2160,2552 2251,2552 2342,2552 2433,2553 2524,2553 2616,2555"
+                         HEIGHT="105"
+                         WIDTH="1845"
+                         VPOS="2496"
+                         HPOS="783">
+                  <String ID="string_r2l22"
+                          HEIGHT="105"
+                          WIDTH="1845"
+                          VPOS="2496"
+                          HPOS="783"
+                          CONTENT="nahme des Betriebs durch eine Ausstellungskommission gemaght"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="809,2652 896,2652 984,2652 1071,2652 1159,2652 1247,2651 1334,2651 1422,2651 1510,2651 1597,2651 1685,2651 1773,2651 1860,2651 1948,2651 2036,2651 2123,2651 2211,2651 2299,2652 2386,2652 2474,2652 2562,2652"
+                         HEIGHT="129"
+                         WIDTH="1778"
+                         VPOS="2586"
+                         HPOS="796">
+                  <String ID="string_r2l23"
+                          HEIGHT="129"
+                          WIDTH="1778"
+                          VPOS="2586"
+                          HPOS="796"
+                          CONTENT="haben, muss vor dem 24. März, nämlich um den 20. März berum"/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="806,2751 891,2751 977,2751 1063,2751 1149,2751 1235,2751 1321,2751 1406,2751 1492,2751 1578,2751 1664,2751 1750,2751 1836,2751 1922,2751 2007,2751 2093,2751 2179,2751 2265,2751 2351,2750 2437,2750 2523,2750"
+                         HEIGHT="120"
+                         WIDTH="1739"
+                         VPOS="2678"
+                         HPOS="795">
+                  <String ID="string_r2l24"
+                          HEIGHT="120"
+                          WIDTH="1739"
+                          VPOS="2678"
+                          HPOS="795"
+                          CONTENT="stattgefunden haben. Nach Durchsicht der Akten konnte ich"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="807,2850 899,2850 991,2850 1084,2850 1176,2852 1268,2852 1361,2852 1453,2852 1545,2852 1638,2852 1730,2852 1822,2852 1915,2852 2007,2852 2099,2852 2192,2850 2284,2850 2376,2850 2469,2849 2561,2847 2654,2847"
+                         HEIGHT="98"
+                         WIDTH="1872"
+                         VPOS="2788"
+                         HPOS="794">
+                  <String ID="string_r2l25"
+                          HEIGHT="98"
+                          WIDTH="1872"
+                          VPOS="2788"
+                          HPOS="794"
+                          CONTENT="ferner feststellen, dass der Vorstand der Personenschiffahrte-"/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="812,2954 900,2954 989,2954 1077,2954 1166,2954 1255,2954 1343,2954 1432,2954 1521,2954 1609,2954 1698,2954 1787,2954 1875,2954 1964,2954 2053,2954 2141,2952 2230,2952 2319,2952 2407,2952 2496,2951 2585,2949"
+                         HEIGHT="96"
+                         WIDTH="1795"
+                         VPOS="2892"
+                         HPOS="801">
+                  <String ID="string_r2l26"
+                          HEIGHT="96"
+                          WIDTH="1795"
+                          VPOS="2892"
+                          HPOS="801"
+                          CONTENT="gesellschaft in seiner Sitzung vom 11. März mich einstimmig"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="806,3051 894,3051 982,3051 1070,3051 1158,3051 1247,3051 1335,3051 1423,3051 1511,3051 1599,3051 1688,3051 1776,3051 1864,3051 1952,3051 2040,3051 2129,3051 2217,3051 2305,3051 2393,3050 2481,3050 2570,3050"
+                         HEIGHT="98"
+                         WIDTH="1787"
+                         VPOS="2987"
+                         HPOS="795">
+                  <String ID="string_r2l27"
+                          HEIGHT="98"
+                          WIDTH="1787"
+                          VPOS="2987"
+                          HPOS="795"
+                          CONTENT="ermächtigt hat, die Verhandlungen weiterzuführen, wobei ich"/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="800,3152 886,3152 973,3152 1059,3152 1146,3152 1233,3153 1319,3153 1406,3153 1492,3153 1579,3153 1666,3153 1752,3153 1839,3153 1925,3153 2012,3153 2099,3152 2185,3152 2272,3152 2358,3152 2445,3150 2532,3150"
+                         HEIGHT="126"
+                         WIDTH="1757"
+                         VPOS="3075"
+                         HPOS="788">
+                  <String ID="string_r2l28"
+                          HEIGHT="126"
+                          WIDTH="1757"
+                          VPOS="3075"
+                          HPOS="788"
+                          CONTENT="die Verpflichtung übernahm mich jeweils mit Ihnen und den"/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="804,3257 897,3257 990,3257 1084,3257 1177,3257 1271,3257 1364,3257 1458,3257 1551,3257 1645,3257 1738,3257 1831,3257 1925,3257 2018,3257 2112,3257 2205,3258 2299,3258 2392,3258 2486,3258 2579,3258 2673,3258"
+                         HEIGHT="143"
+                         WIDTH="1893"
+                         VPOS="3185"
+                         HPOS="791">
+                  <String ID="string_r2l29"
+                          HEIGHT="143"
+                          WIDTH="1893"
+                          VPOS="3185"
+                          HPOS="791"
+                          CONTENT="Herren Stauffacher und Oettinger zu verständigeh. Uhter dieseh"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

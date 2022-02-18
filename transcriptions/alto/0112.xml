@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-02-15T15:27:42.231+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3799" WIDTH="2843">
+         <TopMargin HEIGHT="0" WIDTH="2843" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3799" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3799" WIDTH="0" VPOS="0" HPOS="2843"/>
+         <BottomMargin HEIGHT="0" WIDTH="2843" VPOS="3799" HPOS="0"/>
+         <PrintSpace HEIGHT="3799" WIDTH="2843" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3097" WIDTH="2215" VPOS="251" HPOS="425">
+               <Shape>
+                  <Polygon POINTS="425,251 425,3348 2640,3348 2640,251"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="2396,309 2421,315 2447,318 2472,318 2498,318 2523,318 2549,318"
+                         HEIGHT="140"
+                         WIDTH="185"
+                         VPOS="218"
+                         HPOS="2380">
+                  <String ID="string_r1l1"
+                          HEIGHT="140"
+                          WIDTH="185"
+                          VPOS="218"
+                          HPOS="2380"
+                          CONTENT="50"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="425,437 453,438 482,438 511,438 540,438 569,438 598,438 626,437 655,437 684,437 713,437 742,437 771,437 800,437 828,437 857,437 886,437 915,437 944,437 973,438 1002,438"
+                         HEIGHT="81"
+                         WIDTH="602"
+                         VPOS="383"
+                         HPOS="412">
+                  <String ID="string_r1l2"
+                          HEIGHT="81"
+                          WIDTH="602"
+                          VPOS="383"
+                          HPOS="412"
+                          CONTENT="DR. W. MEILE-WELTI"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="530,491 556,489 582,488 608,488 634,486 661,486 687,486 713,486 739,488 765,488 792,488 818,488 844,488 870,487 897,486"
+                         HEIGHT="66"
+                         WIDTH="394"
+                         VPOS="447"
+                         HPOS="517">
+                  <String ID="string_r1l3"
+                          HEIGHT="66"
+                          WIDTH="394"
+                          VPOS="447"
+                          HPOS="517"
+                          CONTENT="MISSIONSSTRASSE 6"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="633,536 658,536 683,536 708,537 733,536 758,536 783,537"
+                         HEIGHT="76"
+                         WIDTH="175"
+                         VPOS="495"
+                         HPOS="621">
+                  <String ID="string_r1l4"
+                          HEIGHT="76"
+                          WIDTH="175"
+                          VPOS="495"
+                          HPOS="621"
+                          CONTENT="BASEL"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1337,746 1384,749 1432,752 1479,752 1527,752 1574,751 1622,749 1669,747 1717,743 1764,741 1812,737 1860,734 1907,732 1955,730 2002,729 2050,728 2097,729 2145,729 2192,733 2240,738 2288,744"
+                         HEIGHT="225"
+                         WIDTH="977"
+                         VPOS="587"
+                         HPOS="1324">
+                  <String ID="string_r1l5"
+                          HEIGHT="225"
+                          WIDTH="977"
+                          VPOS="587"
+                          HPOS="1324"
+                          CONTENT="gatt 16. 4p1 33."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="779,1055 839,1055 899,1055 959,1055 1020,1054 1080,1053 1140,1052 1201,1050 1261,1049 1321,1047 1382,1045 1442,1043 1502,1041 1562,1038 1623,1037 1683,1034 1743,1032 1804,1029 1864,1028 1924,1025 1985,1023"
+                         HEIGHT="273"
+                         WIDTH="1233"
+                         VPOS="826"
+                         HPOS="765">
+                  <String ID="string_r1l6"
+                          HEIGHT="273"
+                          WIDTH="1233"
+                          VPOS="826"
+                          HPOS="765"
+                          CONTENT="kenn 1o Lag titels"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="810,1190 885,1188 961,1187 1037,1184 1113,1182 1189,1181 1265,1179 1340,1179 1416,1178 1492,1176 1568,1176 1644,1175 1720,1175 1796,1173 1871,1172 1947,1172 2023,1170 2099,1169 2175,1169 2251,1167 2327,1166"
+                         HEIGHT="154"
+                         WIDTH="1543"
+                         VPOS="1064"
+                         HPOS="796">
+                  <String ID="string_r1l7"
+                          HEIGHT="154"
+                          WIDTH="1543"
+                          VPOS="1064"
+                          HPOS="796"
+                          CONTENT="Füs s Busls fertor."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="821,1316 887,1315 953,1314 1019,1313 1086,1311 1152,1310 1218,1308 1285,1307 1351,1305 1417,1303 1484,1301 1550,1299 1616,1296 1682,1293 1749,1291 1815,1287 1881,1284 1948,1281 2014,1278 2080,1274 2147,1269"
+                         HEIGHT="199"
+                         WIDTH="1357"
+                         VPOS="1187"
+                         HPOS="806">
+                  <String ID="string_r1l8"
+                          HEIGHT="199"
+                          WIDTH="1357"
+                          VPOS="1187"
+                          HPOS="806"
+                          CONTENT="abefteltsgenttolt"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="1938,1427 1964,1427 1991,1428 2017,1429 2044,1430 2070,1432 2097,1434 2124,1436 2150,1437 2177,1439 2203,1440 2230,1441 2256,1442 2283,1442 2310,1440"
+                         HEIGHT="155"
+                         WIDTH="401"
+                         VPOS="1343"
+                         HPOS="1923">
+                  <String ID="string_r1l9"
+                          HEIGHT="155"
+                          WIDTH="401"
+                          VPOS="1343"
+                          HPOS="1923"
+                          CONTENT="edel"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="720,1692 772,1692 824,1692 876,1691 928,1690 980,1688 1032,1686 1084,1685 1136,1682 1188,1680 1240,1677 1292,1676 1344,1674 1396,1673 1448,1671 1500,1670 1552,1670 1604,1671 1656,1671 1708,1673 1761,1676"
+                         HEIGHT="226"
+                         WIDTH="1069"
+                         VPOS="1546"
+                         HPOS="704">
+                  <String ID="string_r1l10"
+                          HEIGHT="226"
+                          WIDTH="1069"
+                          VPOS="1546"
+                          HPOS="704"
+                          CONTENT="Hl geelott hert"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="954,1886 1034,1884 1115,1880 1196,1878 1276,1875 1357,1872 1438,1869 1518,1866 1599,1864 1680,1861 1761,1859 1841,1856 1922,1854 2003,1851 2083,1850 2164,1848 2245,1847 2325,1845 2406,1844 2487,1842 2568,1842"
+                         HEIGHT="182"
+                         WIDTH="1641"
+                         VPOS="1754"
+                         HPOS="940">
+                  <String ID="string_r1l11"
+                          HEIGHT="182"
+                          WIDTH="1641"
+                          VPOS="1754"
+                          HPOS="940"
+                          CONTENT="la iid drersteg der 21. 711."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="585,2055 674,2048 763,2042 853,2035 942,2030 1032,2024 1121,2019 1210,2014 1300,2009 1389,2004 1479,2001 1568,1997 1657,1994 1747,1991 1836,1988 1926,1985 2015,1983 2104,1982 2194,1982 2283,1982 2373,1982"
+                         HEIGHT="232"
+                         WIDTH="1817"
+                         VPOS="1862"
+                         HPOS="570">
+                  <String ID="string_r1l12"
+                          HEIGHT="232"
+                          WIDTH="1817"
+                          VPOS="1862"
+                          HPOS="570"
+                          CONTENT="ae feit fotgelegte B"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="578,2178 674,2178 771,2177 867,2174 964,2170 1060,2165 1157,2160 1253,2155 1350,2150 1446,2144 1543,2139 1639,2133 1736,2129 1832,2125 1929,2122 2025,2120 2122,2120 2218,2120 2315,2122 2411,2126 2508,2132"
+                         HEIGHT="228"
+                         WIDTH="1954"
+                         VPOS="2015"
+                         HPOS="563">
+                  <String ID="string_r1l13"
+                          HEIGHT="228"
+                          WIDTH="1954"
+                          VPOS="2015"
+                          HPOS="563"
+                          CONTENT="n Mhenntsnng tade ka ad"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="570,2300 668,2297 766,2295 864,2291 962,2289 1060,2286 1158,2283 1256,2280 1354,2279 1452,2276 1550,2273 1648,2271 1746,2268 1844,2267 1942,2264 2040,2262 2138,2261 2236,2259 2334,2258 2432,2256 2531,2255"
+                         HEIGHT="235"
+                         WIDTH="1988"
+                         VPOS="2135"
+                         HPOS="556">
+                  <String ID="string_r1l14"
+                          HEIGHT="235"
+                          WIDTH="1988"
+                          VPOS="2135"
+                          HPOS="556"
+                          CONTENT="dr fhen tasts -Bhe"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="549,2430 602,2427 656,2424 710,2421 763,2419 817,2417 871,2414 924,2411 978,2408 1032,2406 1086,2404 1139,2402 1193,2400 1247,2399 1300,2397 1354,2396 1408,2396 1461,2396 1515,2394 1569,2396 1623,2396"
+                         HEIGHT="129"
+                         WIDTH="1101"
+                         VPOS="2305"
+                         HPOS="534">
+                  <String ID="string_r1l15"
+                          HEIGHT="129"
+                          WIDTH="1101"
+                          VPOS="2305"
+                          HPOS="534"
+                          CONTENT="gitt lervotenn"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="764,2534 860,2534 957,2534 1054,2532 1151,2532 1247,2530 1344,2528 1441,2526 1538,2525 1635,2523 1731,2521 1828,2519 1925,2517 2022,2516 2119,2514 2215,2513 2312,2513 2409,2513 2506,2513 2603,2513"
+                         HEIGHT="212"
+                         WIDTH="1865"
+                         VPOS="2388"
+                         HPOS="750">
+                  <String ID="string_r1l16"
+                          HEIGHT="212"
+                          WIDTH="1865"
+                          VPOS="2388"
+                          HPOS="750"
+                          CONTENT="dt dtte de udt etlibge"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="579,2715 612,2712 646,2708 679,2704 713,2702 747,2699 780,2695 814,2691 847,2689 881,2687 915,2684 948,2682 982,2680 1015,2679 1049,2678 1083,2678 1116,2678 1150,2678 1183,2678 1217,2679 1251,2681"
+                         HEIGHT="159"
+                         WIDTH="698"
+                         VPOS="2584"
+                         HPOS="564">
+                  <String ID="string_r1l17"
+                          HEIGHT="159"
+                          WIDTH="698"
+                          VPOS="2584"
+                          HPOS="564"
+                          CONTENT="a tpollen"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1160,2829 1234,2829 1308,2829 1382,2828 1456,2825 1530,2823 1604,2820 1678,2817 1752,2813 1826,2810 1900,2807 1974,2805 2048,2802 2122,2801 2196,2799 2270,2799 2344,2801 2418,2802 2492,2807 2566,2811 2640,2817"
+                         HEIGHT="226"
+                         WIDTH="1509"
+                         VPOS="2677"
+                         HPOS="1146">
+                  <String ID="string_r1l18"
+                          HEIGHT="226"
+                          WIDTH="1509"
+                          VPOS="2677"
+                          HPOS="1146"
+                          CONTENT="df nsdgsids totallg"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1566,3044 1592,3039 1618,3034 1644,3032 1670,3030 1697,3029 1723,3027 1749,3027 1775,3028 1801,3029 1828,3029 1854,3031 1880,3032 1906,3034 1932,3035 1959,3036 1985,3036 2011,3038 2037,3037 2064,3036"
+                         HEIGHT="244"
+                         WIDTH="524"
+                         VPOS="2861"
+                         HPOS="1554">
+                  <String ID="string_r1l19"
+                          HEIGHT="244"
+                          WIDTH="524"
+                          VPOS="2861"
+                          HPOS="1554"
+                          CONTENT="so. mely"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="519,3222 620,3218 722,3214 823,3210 925,3206 1026,3203 1128,3200 1229,3197 1331,3194 1432,3192 1534,3189 1636,3188 1737,3188 1839,3186 1940,3186 2042,3186 2143,3186 2245,3188 2346,3189 2448,3192 2550,3195"
+                         HEIGHT="130"
+                         WIDTH="2059"
+                         VPOS="3086"
+                         HPOS="505">
+                  <String ID="string_r1l20"
+                          HEIGHT="130"
+                          WIDTH="2059"
+                          VPOS="3086"
+                          HPOS="505"
+                          CONTENT="I d satttandnn Sorlle"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="801,3318 888,3320 976,3320 1064,3318 1152,3317 1240,3316 1328,3314 1415,3312 1503,3311 1591,3308 1679,3306 1767,3303 1855,3302 1943,3300 2030,3300 2118,3299 2206,3299 2294,3300 2382,3302 2470,3305 2558,3308"
+                         HEIGHT="113"
+                         WIDTH="1784"
+                         VPOS="3207"
+                         HPOS="787">
+                  <String ID="string_r1l21"
+                          HEIGHT="113"
+                          WIDTH="1784"
+                          VPOS="3207"
+                          HPOS="787"
+                          CONTENT="a pi Barsts Arodpfettt"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
