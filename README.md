@@ -6,6 +6,7 @@
 
 ## File structure and data overview
 
+```
 Rheinschifffahrt Showcase/
 ├── analysis/
 │   ├── 
@@ -40,6 +41,7 @@ Rheinschifffahrt Showcase/
 │       ├── 0137.txt
 │       └── full_transcript.txt
 └── README.txt
+```
 
 ## Data processing and software
 
