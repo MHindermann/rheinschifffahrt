@@ -8,12 +8,12 @@ This data set was created by the University of Basel's Research and Infrastructu
 
 ## File structure and data overview
 
-Documentation in [/docs](https://github.com/MHindermann/rheinschifffahrt/docs)
+Documentation in [/docs](https://github.com/MHindermann/rheinschifffahrt/tree/master/docs)
 
-Data in [/files](https://github.com/MHindermann/rheinschifffahrt/files) with
-- images and corresponding metadata in [/files/images](https://github.com/MHindermann/rheinschifffahrt/files/images)
-- transcriptions and corresponding metadata in [/files/transcriptions](https://github.com/MHindermann/rheinschifffahrt/files/transcriptions)
-- analysis of images and transcriptions in [/files/analysis](https://github.com/MHindermann/rheinschifffahrt/files/analysis)
+Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/files) with
+- images and corresponding metadata in [/files/images](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/images)
+- transcriptions and corresponding metadata in [/files/transcriptions](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/transcriptions)
+- analysis of images and transcriptions in [/files/analysis](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/analysis)
 
 ## Data processing
 
