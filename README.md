@@ -2,7 +2,7 @@
 
 ## Creator
 
-This data set was created by the University of Basel's Research and Infrastructure Support RISE (rise@unibas.ch) in February 2022. It is based on the digital collection `Basler Rheinschifffahrt-Aktiengesellschaft, insbesondere über die Veräusserung des Dieselmotorbootes 'Rheinfelden' und die Gewährung eines Darlehens zur Finanzierung der Erstellung des Dieselmotorbootes 'Rhyblitz' an diese Firma` (Shelf Mark: CH SWA HS 191 V 10, Persistent Link: http://dx.doi.org/10.7891/e-manuscripta-54917) of the Schweizer Wirtschaftsarchiv and referred to as the collection in what follows.
+This data set was created by the University of Basel's Research and Infrastructure Support RISE (rise@unibas.ch) in February 2022. It is based on the digital collection `Basler Rheinschifffahrt-Aktiengesellschaft, insbesondere über die Veräusserung des Dieselmotorbootes 'Rheinfelden' und die Gewährung eines Darlehens zur Finanzierung der Erstellung des Dieselmotorbootes 'Rhyblitz' an diese Firma` (shelf mark: `CH SWA HS 191 V 10`, persistent link: http://dx.doi.org/10.7891/e-manuscripta-54917) of the Schweizer Wirtschaftsarchiv and referred to as "the collection" in what follows.
 
 ## File structure and data overview
 
