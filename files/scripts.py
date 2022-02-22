@@ -133,6 +133,3 @@ class App:
                                   "spacy:ent.end_char"],
                           data=export,
                           file_path=file_path)
-
-exit()
-App.entities_per_document()
