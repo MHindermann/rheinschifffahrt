@@ -1,0 +1,126 @@
+@prefix : <https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md> .
+
+<https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md> rdf:type owl:Ontology .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasPreferredName
+:hasPreferredName rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf owl:topObjectProperty ;
+                  rdf:type owl:FunctionalProperty ;
+                  rdfs:domain :Person ;
+                  rdfs:range :Name ;
+                  owl:propertyDisjointWith :hasVariantName ;
+                  rdfs:label "hasPreferredName"^^xsd:string .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasVariantName
+:hasVariantName rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf owl:topObjectProperty ;
+                rdfs:domain :Person ;
+                rdfs:range :Name ;
+                rdfs:label "hasVariantName"^^xsd:string .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasDateOfBirth
+:hasDateOfBirth rdf:type owl:DatatypeProperty ;
+                rdfs:subPropertyOf owl:topDataProperty ;
+                rdf:type owl:FunctionalProperty ;
+                rdfs:domain :Person ;
+                rdfs:range xsd:date .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasDateofDeath
+:hasDateofDeath rdf:type owl:DatatypeProperty ;
+                rdfs:subPropertyOf owl:topDataProperty ;
+                rdf:type owl:FunctionalProperty ;
+                rdfs:domain :Person ;
+                rdfs:range xsd:date .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasFamilyName
+:hasFamilyName rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdf:type owl:FunctionalProperty ;
+               rdfs:domain :Name ;
+               rdfs:range rdfs:Literal ;
+               rdfs:label "hasFamilyName" .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasGivenNames
+:hasGivenNames rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdf:type owl:FunctionalProperty ;
+               rdfs:domain :Name ;
+               rdfs:range rdfs:Literal ;
+               rdfs:label "hasGivenNames" .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasIdentifier
+:hasIdentifier rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Person ,
+                           :Source ;
+               rdfs:range rdfs:Literal ;
+               rdfs:label "hasIdentifier" .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasInscribedName
+:hasInscribedName rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf owl:topDataProperty ;
+                  rdfs:domain :Source ;
+                  rdfs:range rdfs:Literal ;
+                  rdfs:label "hasInscribedName" .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasTitleName
+:hasTitleName rdf:type owl:DatatypeProperty ;
+              rdfs:subPropertyOf owl:topDataProperty ;
+              rdfs:domain :Name ;
+              rdfs:range rdfs:Literal ;
+              rdfs:label "hasTitleName"^^xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name
+:Name rdf:type owl:Class ;
+      rdfs:subClassOf owl:Thing ;
+      rdfs:label "Name"^^xsd:string .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person
+:Person rdf:type owl:Class ;
+        rdfs:subClassOf owl:Thing ;
+        rdfs:label "Person"^^xsd:string .
+
+
+###  https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Source
+:Source rdf:type owl:Class ;
+        rdfs:subClassOf owl:Thing ;
+        rdfs:label "Source"^^xsd:string .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
