@@ -2,10 +2,10 @@
   "@id" : "http://www.w3.org/2001/XMLSchema#date",
   "@type" : [ "http://www.w3.org/2000/01/rdf-schema#Datatype" ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "Name"
@@ -14,7 +14,7 @@
     "@id" : "http://www.w3.org/2002/07/owl#Thing"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "Person"
@@ -23,7 +23,7 @@
     "@id" : "http://www.w3.org/2002/07/owl#Thing"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Source",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Source",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "Source"
@@ -32,10 +32,10 @@
     "@id" : "http://www.w3.org/2002/07/owl#Thing"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasDateOfBirth",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasDateOfBirth",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2001/XMLSchema#date"
@@ -44,10 +44,10 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasDateofDeath",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasDateofDeath",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2001/XMLSchema#date"
@@ -56,25 +56,22 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasFamilyName",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasFamilyName",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasFamilyName"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2000/01/rdf-schema#Literal"
-  } ],
-  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
-    "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasGivenNames",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasGivenNames",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasGivenNames"
@@ -86,12 +83,12 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasIdentifier",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasIdentifier",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person"
   }, {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Source"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Source"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasIdentifier"
@@ -103,10 +100,10 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasInscribedName",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasInscribedName",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Source"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Source"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasInscribedName"
@@ -118,28 +115,43 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasPreferredName",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasPreferredName",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasPreferredName"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
     "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
   } ],
   "http://www.w3.org/2002/07/owl#propertyDisjointWith" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasVariantName"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasVariantName"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasTitleName",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasSource",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@value" : "hasSource"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Source"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasTitleName",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasTitleName"
@@ -151,16 +163,16 @@
     "@id" : "http://www.w3.org/2002/07/owl#topDataProperty"
   } ]
 }, {
-  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#hasVariantName",
+  "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#hasVariantName",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Person"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Person"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@value" : "hasVariantName"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/docs/PND.md#Name"
+    "@id" : "https://github.com/MHindermann/rheinschifffahrt/tree/master/analysis/pnd/pnd.md#Name"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
     "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
