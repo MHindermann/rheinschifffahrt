@@ -12,5 +12,11 @@ See [/files/analysis/ner_python](https://github.com/MHindermann/rheinschifffahrt
 
 ### 2022-02-22
 
-- create ontology for name normalization on with Protegé (v.5.5.0), available at [/files/analysis/pnd](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/analysis/pnd/) (inspired by https://d-nb.info/standards/elementset/gnd)
+- create ontology (inspired by https://d-nb.info/standards/elementset/gnd) for name normalization on with Protegé (v.
+  5.5.0), exported to `/files/analysis/pnd` 
  
+### 2022-02-23
+- normalize names in `/files/analaysis/ner_python/ner_per_item_controlled.csv` in Google Sheets based on `/files/analysis/pnd`, exported to  
+  `/files/analaysis/ner_python/ner_per_item_normalized.csv`. Note that `dc:source`, `spacy:ent.start_char`, and 
+  `spacy:ent.end_char` jointly constitute `pnd:source`, and that `spacy:ent.text` is equivalent to `pnd:hasText` in 
+  this context.
