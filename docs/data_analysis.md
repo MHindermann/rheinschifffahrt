@@ -20,3 +20,6 @@ See [/files/analysis/ner_python](https://github.com/MHindermann/rheinschifffahrt
   `/files/analaysis/ner_python/ner_per_item_normalized.csv`. Note that `dc:source`, `spacy:ent.start_char`, and 
   `spacy:ent.end_char` jointly constitute `pnd:source`, and that `spacy:ent.text` is equivalent to `pnd:hasText` in 
   this context.
+  
+### 2022-02-25 
+- manually individualize persons, exported to `/files/analaysis/ner_python/ner_individualized.csv`

@@ -1,0 +1,317 @@
+[
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0001",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0001",
+        "pnd:hasFamilyName": "Albatros",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0002",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0002",
+        "pnd:hasFamilyName": "Buess",
+        "pnd:hasGivenName": "F.",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0003",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0003",
+        "pnd:hasFamilyName": "Christ",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0004",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0005",
+        "pnd:hasFamilyName": "Frey",
+        "pnd:hasGivenName": "Jean Richard",
+        "pnd:hasTitle": ""
+      },
+      "pnd:hasVariantName":
+      {
+        "pnd:hasIdentifier": "name_0004",
+        "pnd:hasFamilyName": "Frey",
+        "pnd:hasGivenName": "J. R.",
+        "pnd:hasTitle": ""
+      },
+      "pnd:hasVariantName":
+      {
+        "pnd:hasIdentifier": "name_0006",
+        "pnd:hasFamilyName": "Frey",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person": {
+      "pnd:hasIdentifier": "person_0005",
+      "pnd:hasPreferredName": {
+        "pnd:hasIdentifier": "name_0007",
+        "pnd:hasFamilyName": "Groschupf",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0006",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0008",
+        "pnd:hasFamilyName": "Kehl",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0007",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0009",
+        "pnd:hasFamilyName": "Kolk",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0008",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0010",
+        "pnd:hasFamilyName": "Krast",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": "Dr."
+      },
+      "pnd:hasVariantName":
+      {
+        "pnd:hasIdentifier": "name_0011",
+        "pnd:hasFamilyName": "Krasting",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": "Dr."
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0009",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0012",
+        "pnd:hasFamilyName": "Mangold",
+        "pnd:hasGivenName": "F.",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0010",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0013",
+        "pnd:hasFamilyName": "Oettinger",
+        "pnd:hasGivenName": "Max",
+        "pnd:hasTitle": ""
+      },
+      "pnd:hasVariantName":
+      {
+        "pnd:hasIdentifier": "name_0014",
+        "pnd:hasFamilyName": "Oettinger",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0011",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0015",
+        "pnd:hasFamilyName": "Riesen",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0012",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0016",
+        "pnd:hasFamilyName": "Ritter",
+        "pnd:hasGivenName": "Franz",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0013",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0017",
+        "pnd:hasFamilyName": "Ritter",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0014",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0018",
+        "pnd:hasFamilyName": "Rupprecht",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0015",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0019",
+        "pnd:hasFamilyName": "Ryniker",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person": {
+      "pnd:hasIdentifier": "person_0016",
+      "pnd:hasPreferredName": {
+        "pnd:hasIdentifier": "name_0020",
+        "pnd:hasFamilyName": "Speich",
+        "pnd:hasGivenName": "R.",
+        "pnd:hasTitle": "Dr."
+      },
+      "pnd:hasVariantName": {
+        "pnd:hasIdentifier": "name_0021",
+        "pnd:hasFamilyName": "Speich",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": "Dr."
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0017",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0022",
+        "pnd:hasFamilyName": "Spillmann",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person": {
+      "pnd:hasIdentifier": "person_0018",
+      "pnd:hasPreferredName": {
+        "pnd:hasIdentifier": "name_0024",
+        "pnd:hasFamilyName": "Stauffacher",
+        "pnd:hasGivenName": "Werner",
+        "pnd:hasTitle": ""
+      },
+      "pnd:hasVariantName": {
+        "pnd:hasIdentifier": "name_0023",
+        "pnd:hasFamilyName": "Stauffacher",
+        "pnd:hasGivenName": "W.",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person": {
+      "pnd:hasIdentifier": "person_0019",
+      "pnd:hasPreferredName": {
+        "pnd:hasIdentifier": "name_0025",
+        "pnd:hasFamilyName": "Vischer",
+        "pnd:hasGivenName": "Max",
+        "pnd:hasTitle": "Dr."
+      },
+      "pnd:hasVariantName": {
+        "pnd:hasIdentifier": "name_0026",
+        "pnd:hasFamilyName": "Vischer",
+        "pnd:hasGivenName": "Max",
+        "pnd:hasTitle": ""
+      },
+      "pnd:hasVariantName": {
+        "pnd:hasIdentifier": "name_0027",
+        "pnd:hasFamilyName": "Vischer",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": "Dr."
+      }
+    }
+  },
+  {
+    "pnd:Person":
+    {
+      "pnd:hasIdentifier": "person_0020",
+      "pnd:hasPreferredName":
+      {
+        "pnd:hasIdentifier": "name_0028",
+        "pnd:hasFamilyName": "Wacker",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  },
+  {
+    "pnd:Person": {
+      "pnd:hasIdentifier": "person_0021",
+      "pnd:hasPreferredName": {
+        "pnd:hasIdentifier": "name_0029",
+        "pnd:hasFamilyName": "Wylemann",
+        "pnd:hasGivenName": "",
+        "pnd:hasTitle": ""
+      }
+    }
+  }
+]
