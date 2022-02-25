@@ -27,10 +27,6 @@ Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/fil
 Some keyword-in-context searches were carried out. The conditions are not ideal, seeing as the text is, for the moment, strictly divided in lines, not in complete letters, which would make more sense. In the absence of an ideal solution, I collapsed all rows into one to look for keywords. kwic is a useful function to count occurrences of words or phrases and to evaluate their context.
 Lastly, I used Wikidata and the associated R-package to disambiguate some locations. The package WikidataR has a useful function that allows for automatic and manual disambiguation. Upon successful identification of a location, a so-called Q-ID can be added to the data frame containing the different locations. This ID can then be used to acquire further metadata down the line, like for example coordinates.
 
-## Reusing this data set
-
-- blah
-
 ## License
 
 - CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
