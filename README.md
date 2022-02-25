@@ -28,7 +28,7 @@ Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/fil
 - In OpenRefine, a text facet was added to *entity_type* to only include entities labelled **PER**. On the basis of the column named *entity*, a new column called *no.title* was created where titles were droppen (*Dr.* and *Herrn*). Clustering was not an option for this new column, so it was further edited by hand: different spellings of the same name were normalized and entities that were labelled as **PER** but did not refer to a person were dropped. The resulting data frame - now only consisting of entities labelled **PER** was then saved as `20220222persons_openrefine.csv`in `/files/analysis/ner_openrefine`. All the changes made in OpenRefine are documented in`OpenRefine_changelog.json` in `/files/analysis/ner_openrefine`.
 
 ## Data presentation
- - Some of the created data is presented the University of Bern's Omeka S instance: https://omeka.unibe.ch/s/rheinschifffahrt
+ - Some of the created data is presented at the University of Bern's Omeka S instance: https://omeka.unibe.ch/s/rheinschifffahrt
 
 ## License
 
