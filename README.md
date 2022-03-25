@@ -1,6 +1,8 @@
 # RISE Rheinschifffahrt Showcase
 
-Sample data set for didactic purposes.
+Sample data set exemplifying an idealized data processing pipeline:
+
+![alt text](https://github.com/RISE-UNIBAS/rheinschifffahrt/blob/master/docs/pipeline.png?raw=true)
 
 ## Creator
 
