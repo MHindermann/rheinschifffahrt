@@ -10,7 +10,7 @@ This dataset was created by the University of Basel's Research and Infrastructur
 
 ## File structure and data overview
 
-Documentation of work in progress in [/docs](https://github.com/MHindermann/rheinschifffahrt/tree/master/docs)
+Note that there are [different versions of this dataset](https://github.com/RISE-UNIBAS/rheinschifffahrt/releases).
 
 Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/files) with
 - images and corresponding metadata in [/files/images](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/images)
@@ -27,13 +27,22 @@ The main task of data processing was to structure and transcribe the collection.
 
 ## Data analysis
 
-The main task of data analysis was to extract the mentioned persons using NER.
+The main task of data analysis was to automatically extract the persons mentioned in the collection using NER.
 
-- The first step was to read each TXT-file into RStudio using R (v4.1.1) to process the text and to have a basic identifier that can link any named entities back to the page they appeared on. This was done by listing all TXT-files and then reading them using the `readtext()` function (see https://cran.r-project.org/web/packages/readtext/readtext.pdf). The `doc-id` variable copies the file-name (e.g., `0001.txt`) and since this mirrors the image names (e.g., `0001.jpg`), the `doc-id` was used as a basis to create a variable `image` which links back to the relevant JPG-file. Next the `de_core_news_sm` model is used to parse all the texts and perform a named entity recognition. Every entity tagged as `PER`, named persons, will be used for further processing in OpenRefine. Since the linking variable unfortunately disappers when the text is parsed and a new document identifier is created (`text1`, `text2`, etc.), the original link (`0001.jpg`) was recreated using an `ifelse()`-chain. The resulting data frame was saved as `analysis/ner/persons.csv`, with the column `link` providing the name of the respective JPG-file. The script `files/spacy_update.R` documents all these processes.
+### NER using R and OpenRefine 
+
+- The first step was to read each TXT-file into RStudio using R (v.4.1.1) to process the text and to have a basic identifier that can link any named entities back to the page they appeared on. This was done by listing all TXT-files and then reading them using the `readtext()` function (see https://cran.r-project.org/web/packages/readtext/readtext.pdf). The `doc-id` variable copies the file-name (e.g., `0001.txt`) and since this mirrors the image names (e.g., `0001.jpg`), the `doc-id` was used as a basis to create a variable `image` which links back to the relevant JPG-file. Next the spacyr (see https://github.com/quanteda/spacyr) `de_core_news_sm` model is used to parse all the texts and perform a named entity recognition. Every entity tagged as `PER`, named persons, will be used for further processing in OpenRefine. Since the linking variable unfortunately disappers when the text is parsed and a new document identifier is created (`text1`, `text2`, etc.), the original link (`0001.jpg`) was recreated using an `ifelse()`-chain. The resulting data frame was saved as `analysis/ner/persons.csv`, with the column `link` providing the name of the respective JPG-file. The script `files/spacy_update.R` documents all these processes.
 - In OpenRefine, a text facet was added to `entity_type` to only include entities labelled `PER`. On the basis of the column named `entity`, a new column called `no.title` was created where titles were dropped (namely "Dr." and "Herrn"). Clustering was not an option for this new column, so it was further edited by hand: different spellings of the same name were normalized and entities that were labelled as `PER` but did not refer to a person were dropped. The resulting data frame (now only consisting of entities labelled `PER`) was then saved as `files/analysis/ner/persons_openrefine.csv`. All the changes made in OpenRefine are documented in `files/analysis/ner/persons_openrefine_changelog.json`.
 
+### NER using Python and Protegé
+
+- The `App.entities_per_document` method documented in `files/analysis/ner.py` was run to extract named entities per item using the spaCy (see https://spacy.io/)`de_core_news_lg` model and saved as `/files/analaysis/ner_python/ner_per_item.csv`.
+- The extracted `PER` labels were manually controlled (i.e., non-persons labeled `PER` were deleted) and saved as `/files/analaysis/ner_python/ner_per_item_controlled.csv`.
+- A minimal ontology for name normalization based on the "GND Ontology" (see https://d-nb.info/standards/elementset/gnd) was created using Protegé (v.5.5.0) and exported to `/files/analysis/ner_python/pnd.owl`. The names in `/files/analaysis/ner_python/ner_per_item_controlled.csv` were then manually normalized and the result saved as `/files/analaysis/ner_python/ner_per_item_normalized.csv`. Note that `dc:source`, `spacy:ent.start_char`, and `spacy:ent.end_char` jointly constitute `pnd:source`, and that `spacy:ent.text` is equivalent to `pnd:hasText` in this context.
+- Finally, the names normalized in `/files/analaysis/ner_python/ner_per_item_normalized.csv` were manually aggregated into persons and saved as `/files/analaysis/ner_python/ner_individualized.json`.
+
 ## Data presentation
- - Some of the created data is presented at the University of Bern's Omeka S instance: https://omeka.unibe.ch/s/rheinschifffahrt
+ - Some created data is presented at the University of Bern's Omeka S instance: https://omeka.unibe.ch/s/rheinschifffahrt
 
 ## License
 
