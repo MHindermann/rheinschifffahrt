@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import List, Optional, Dict, Union, Tuple
+from typing import List, Dict, Union
 from json import load, dump
 import os.path
 import csv
