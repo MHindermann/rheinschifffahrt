@@ -13,9 +13,10 @@ This dataset was created by the University of Basel's Research and Infrastructur
 Note that there are [different versions of this dataset](https://github.com/RISE-UNIBAS/rheinschifffahrt/releases).
 
 Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/files) with
+- analysis of images and transcriptions in [/files/analysis](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/analysis)
 - images and corresponding metadata in [/files/images](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/images)
 - transcriptions and corresponding metadata in [/files/transcriptions](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/transcriptions)
-- analysis of images and transcriptions in [/files/analysis](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/analysis)
+- metadata schema 
 
 ## Data processing
 
@@ -38,7 +39,7 @@ The main task of data analysis was to automatically extract the persons mentione
 
 - The `App.entities_per_document` method documented in `files/analysis/ner.py` was run to extract named entities per item using the spaCy (see https://spacy.io/)`de_core_news_lg` model and saved as `/files/analaysis/ner_python/ner_per_item.csv`.
 - The extracted `PER` labels were manually controlled (i.e., non-persons labeled `PER` were deleted) and saved as `/files/analaysis/ner_python/ner_per_item_controlled.csv`.
-- A minimal ontology for name normalization based on the "GND Ontology" (see https://d-nb.info/standards/elementset/gnd) was created using Protegé (v.5.5.0) and exported to `/files/analysis/ner_python/pnd.owl`. The names in `/files/analaysis/ner_python/ner_per_item_controlled.csv` were then manually normalized and the result saved as `/files/analaysis/ner_python/ner_per_item_normalized.csv`. Note that `dc:source`, `spacy:ent.start_char`, and `spacy:ent.end_char` jointly constitute `pnd:source`, and that `spacy:ent.text` is equivalent to `pnd:hasText` in this context.
+- A minimal ontology for name normalization based on the "GND Ontology" (see https://d-nb.info/standards/elementset/gnd) was created using Protegé (v.5.5.0) and exported to `/files/analysis/schmeas/pnd.owl`. The names in `/files/analaysis/ner_python/ner_per_item_controlled.csv` were then manually normalized and the result saved as `/files/analaysis/ner_python/ner_per_item_normalized.csv`. Note that `dc:source`, `spacy:ent.start_char`, and `spacy:ent.end_char` jointly constitute `pnd:source`, and that `spacy:ent.text` is equivalent to `pnd:hasText` in this context.
 - Finally, the names normalized in `/files/analaysis/ner_python/ner_per_item_normalized.csv` were manually aggregated into persons and saved as `/files/analaysis/ner_python/ner_individualized.json`.
 
 ## Data presentation

@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#"
+     xml:base="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#date -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#date"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNormalization -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNormalization">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName"/>
+        <rdfs:range rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasNormalization</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasPreferredName -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasPreferredName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person"/>
+        <rdfs:range rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <owl:propertyDisjointWith rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasVariantName"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasPreferredName</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasVariantName -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasVariantName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person"/>
+        <rdfs:range rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasVariantName</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasDateOfBirth -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasDateOfBirth">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasDateOfBirth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasDateofDeath -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasDateofDeath">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasDateOfDeath</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasFamilyName -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasFamilyName">
+        <rdfs:subPropertyOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNamePart"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasFamilyName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasGivenNames -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasGivenNames">
+        <rdfs:subPropertyOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNamePart"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasGivenNames</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasIdentifier -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasIdentifier">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasIdentifier</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNamePart -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNamePart">
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasNamePart</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasSource -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasSource">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasSource</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasText -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasText">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasTranscription</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasTitle">
+        <rdfs:subPropertyOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#hasNamePart"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName"/>
+        <rdfs:domain rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasTitle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#InscribedName">
+        <rdfs:subClassOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Name"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Name -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Name">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName">
+        <rdfs:subClassOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Name"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#Person">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#PreferredName">
+        <rdfs:subClassOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName -->
+
+    <owl:Class rdf:about="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#VariantName">
+        <rdfs:subClassOf rdf:resource="https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas/pnd.owl#NormalizedName"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
