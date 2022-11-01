@@ -91,7 +91,7 @@ class Document:
         (e.g., 0001.txt is the transcript of 0001.jpeg).
         """
 
-        metadata = _Utility.load_json(DIR + "/images/tropy_metadata.json")
+        metadata = _Utility.load_json(DIR + "/metadata/tropy_diplomatic_metadata.json")
         documents = []
         for item in metadata["@graph"]:
             transcripts = []
