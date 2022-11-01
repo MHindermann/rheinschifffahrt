@@ -12,18 +12,23 @@ This dataset was created by the University of Basel's Research and Infrastructur
 
 Note that there are [different versions of this dataset](https://github.com/RISE-UNIBAS/rheinschifffahrt/releases).
 
-Data in [/files](https://github.com/MHindermann/rheinschifffahrt/tree/master/files) with
-- analysis of images and transcriptions in [/files/analysis](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/analysis)
-- images and corresponding metadata in [/files/images](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/images)
-- transcriptions and corresponding metadata in [/files/transcriptions](https://github.com/MHindermann/rheinschifffahrt/tree/master/files/transcriptions)
-- metadata schema 
+Data in [/files](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files) with
+- analysis of images and transcriptions in [/files/analysis](https://github.com/RISE-UNIBAS/rheinschifffahrt/master/files/analysis)
+- images in [/files/images](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/images)
+- metadata in [/files/metadata](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/metadata)
+- transcriptions (and corresponding metadata) in [/files/transcriptions](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/transcriptions)
+- metadata schemas in [/files/schemas](hhttps://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas)
+
+## Description of the collection
+
+Todo.
 
 ## Data processing
 
 The main task of data processing was to structure and transcribe the collection.
 
 - Images were extracted from the collection by importing the collection into Transkribus (Expert Client v.1.17.0) and then exporting its 137 images as JPEGs `/files/images`. The sequence of the images by name (`0001.jpg` to `0137.jpg`) is the sequence of the images in the collection; note that image `0001.jpg` is a cover page (this metadata on the collection in Transkribus is provided by `transkribus_metadata.xml` and `transkribus_mets.xml`). 
-- Images in the `/files/images` were then grouped into semantic items using Tropy (v1.11.1) following the inscribed item numbers provided by the collection: a red penciled number in the right upper corner of an image indicates a new item. There are 68 such items consisting of 1 to 8 images. All items are letters (with enclosures where appropriate) except for items number 30 and 44 which are journal articles. Each item was assigned metadata using the "Tropy Correspondence" template (see https://docs.tropy.org/before-you-begin/metadata#tropy-correspondence). Two transriptions rules were employed: 1. `purl.org/dc/elements/1.1/title` is interpreted as document inscribed number and written as "Dokument nn" where 0 ≤ n ≤ 9, and 2. `purl.org/dc/elements/1.1/creator` and `purl.org/dc/terms/audience` were interpreted as sender and receiver respectively and transcribed diplomatically (i.e., exactly as seen is without normalization); inferred sender or receiver metadata is indicated with square brackets. The so generated metadata is available in `tropy_metadata.json`.
+- Images in the `/files/images` were then grouped into semantic items using Tropy (v1.11.1) following the inscribed item numbers provided by the collection: a red penciled number in the right upper corner of an image indicates a new item. There are 68 such items consisting of 1 to 8 images. All items are letters (with enclosures where appropriate) except for items number 30 and 44 (journal articles), item 54 (transcript of phone call), and item 56 (telegraph). Each non-exceptional item was assigned metadata using the "Tropy Correspondence" template (see https://docs.tropy.org/before-you-begin/metadata#tropy-correspondence). Two transcriptions rules were employed: 1. `purl.org/dc/elements/1.1/title` is interpreted as document inscribed number and written as "Dokument nn" where 0 ≤ n ≤ 9, and 2. `purl.org/dc/elements/1.1/creator` and `purl.org/dc/terms/audience` were interpreted as sender and receiver respectively and transcribed diplomatically (i.e., exactly as seen is without normalization, with descending order of priority: letterhead and address; salutation and signature; letter body); inferred sender or receiver metadata is indicated with square brackets. The so generated metadata is available in `files/metadata/tropy_diplomatic_metadata.json`.
 - Each image in `/files/images` was automatically segmented with CITlab Advanced and transcribed with PyLaia Transkribus print 0.3 using Transkribus (Expert Client v.1.17.0). The transcriptions were exported to the `/files/transcriptions` which contains transcriptions in four different formats: ALTO XML in `/files/transcriptions/alto`, PAGE XML in the folder `/files/transcriptions/page`, TEI XML in the folder `/files/transcriptions/tei`, and plain text in folder `/files/transcriptions/txt`. The folders `/files/transcriptions/alto`, `/files/transcriptions/page` and `/files/transcriptions/txt` contain a transcription for each image in `/files/images` (e.g., `0002.xml` in `files/transcriptions/alto` is the transcription of `0002.jpg` in `/files/images`; see the `/images/transkribus_metadata.xml` for the full details). In addition, `/files/transcriptions/page`, `/files/transcriptions/tei` and `/files/transcriptions/txt` contain the files `full_transcription.xml` and `full_transcription.txt` respectively with full transcriptions of all the images in `files/images`.
 
 ## Data analysis
