@@ -17,7 +17,7 @@ Data in [/files](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/fil
 - images in [/files/images](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/images)
 - metadata in [/files/metadata](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/metadata)
 - transcriptions (and corresponding metadata) in [/files/transcriptions](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/transcriptions)
-- metadata schemas in [/files/schemas](hhttps://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas)
+- metadata schemas in [/files/schemas](https://github.com/RISE-UNIBAS/rheinschifffahrt/tree/master/files/schemas)
 
 ## Description of the collection
 
