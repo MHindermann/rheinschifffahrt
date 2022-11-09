@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import List, Optional, Dict, Union, Tuple
+from typing import List, Dict, Union
 from json import load, dump
 import os.path
 import csv
@@ -91,7 +91,7 @@ class Document:
         (e.g., 0001.txt is the transcript of 0001.jpeg).
         """
 
-        metadata = _Utility.load_json(DIR + "/images/tropy_metadata.json")
+        metadata = _Utility.load_json(DIR + "/metadata/tropy_diplomatic_metadata.json")
         documents = []
         for item in metadata["@graph"]:
             transcripts = []
