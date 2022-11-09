@@ -22,11 +22,10 @@ rownames(rhein_txt) <- rhein_txt$image
 spacy_initialize(model = "de_core_news_sm")
 parsed_txt <- spacy_parse(rhein_txt$text)
 head(parsed_txt)
-tail(parsed_txt) # OCR has not worked properly everywhere, but that need not concern us for now
 
 # extract named entities
 rhein_entity <- entity_extract(parsed_txt)
-persons <- rhein_entity[rhein_entity$entity_type=="PER",]
+#persons <- rhein_entity[rhein_entity$entity_type=="PER",]
 
 ## creating a link (e.g. 0002.jpg) to merge it to images and metadata
 rhein_entity$link <- gsub("text","", rhein_entity$doc_id)
@@ -36,7 +35,5 @@ rhein_entity$link <- ifelse(rhein_entity$link < 10, paste0("000", rhein_entity$l
                                    paste0("0", rhein_entity$link)))
 rhein_entity$link <- paste0(rhein_entity$link, ".jpg")
 
-#setwd("/Users/antheaalberto/switchdrive/RISE/Veranstaltungen/20220301_BGSH/Rheinschifffahrt Showcase")
-#write.csv(rhein_entity, file = "persons.csv", fileEncoding = "UTF-8")
-# The above lines are for writing and saving a .csv file with only persons
-# It is commented out because I have already saved it earlier
+setwd("/Users/antheaalberto/switchdrive/RISE/Veranstaltungen/20220301_BGSH/Rheinschifffahrt Showcase")
+write.csv(rhein_entity, file = "persons.csv", fileEncoding = "UTF-8")
